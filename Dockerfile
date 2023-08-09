@@ -1,5 +1,5 @@
 # FROM nexusrepo.fw.eurekosigorta.com.tr:9001/node:16-alpine
-FROM node:20-alpine
+FROM node:18-alpine
 
 # RUN apk update && apk add bash
 
