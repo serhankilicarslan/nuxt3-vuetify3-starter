@@ -1,0 +1,11 @@
+.vscode
+node_modules
+npm-debug.log
+.github
+.editorconfig
+package-lock.json
+README.md
+.env
+.env.docker
+src/.nuxt
+.nuxt
