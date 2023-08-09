@@ -1,5 +1,5 @@
 # FROM nexusrepo.fw.eurekosigorta.com.tr:9001/node:16-alpine
-FROM node:20-alpine
+FROM node:18-alpine
 
 # RUN apk update && apk add bash
 
@@ -13,6 +13,8 @@ COPY package.json ./
 
 #RUN npm install -g npm
 
+RUN npm cache clean -f
+
 RUN npm i
 
 COPY . .
@@ -24,6 +26,6 @@ ENV NUXT_PORT=3000
 
 EXPOSE 3000
 
-# CMD [ "npm", "run", "preview" ]
+CMD [ "npm", "run", "preview" ]
 # CMD ["node", "src/.output/server/index.mjs"]
-CMD ["node", ".output/server/index.mjs"]
+# CMD ["node", ".output/server/index.mjs"]

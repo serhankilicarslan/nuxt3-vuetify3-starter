@@ -1,0 +1,777 @@
+{
+  "title": "Eureko Insurance",
+  "phoneNumber": "0850 222 66 60",
+  "forCompany": "Eureko for Company",
+  "pageTitle": {
+    "home": "Eureko Sigorta - TCIP, Casco, MTPL ve Home Insurance",
+    "damageInquiry": "Damage Notification Form - Damage Tracking",
+    "damageNotification": "Casco Claim Notice - Damage Notice"
+  },
+  "support": {
+    "title": "Eureko Sigorta is always with you!",
+    "items": {
+      "damageTransactions": "Damage Transactions",
+      "damageTransactionsDesc": "We are here to collect your damage notifications and damage tracking.",
+      "contractedHealthInstitutions": "Contracted Health Institutions",
+      "contractedHealthInstitutionsDesc": "We are always with you with all our contracted health institutions and auto services.",
+      "vehicleServices": "Vehicle Services",
+      "vehicleServicesDesc": "For you and your company, you can examine our campaigns in detail and take advantage of our opportunities.",
+      "eurekobi": "Eurekobi",
+      "eurekobiDesc": "We are one step away with the Eureko Sigorta Mobile Application and our internet branch."
+    },
+    "button": "Review"
+  },
+  "language": {
+    "button": {
+      "text": "TR"
+    }
+  },
+  "slider": {
+    "moreInfo": "More Information"
+  },
+  "mobileApp": {
+    "button": {
+      "text": "Show More"
+    },
+    "title": "Discover Eureko Mobil"
+  },
+  "help": {
+    "title": "How Can We Help?",
+    "text": "We value your feedback. You can contact us for all your suggestions and complaints.",
+    "items": {
+      "yourCuriosities": "Your Curiosities",
+      "yourCuriositiesDesc": "Lorem ipsum dolor sit amet, consectetur",
+      "yourCuriositiesButton": "Discover",
+      "contactUs": "Contact Us",
+      "contactUsDesc": "Lorem ipsum dolor sit amet, consectetur ",
+      "contactUsButton": "Call Now",
+      "contactUsWriten": "Contact Us Writen",
+      "contactUsWritenDesc": "Lorem ipsum dolor sit amet, consectetur ",
+      "contactUsWritenButton": "Exemine"
+    }
+  },
+  "header": {
+    "button": {
+      "whatsapp": "WhatsApp Claim Inquiry",
+      "whatsappMobile": "WhatsApp Claim Inquiry",
+      "login": "Login",
+      "blog": "Blog",
+      "eureKobi": "EureKobi"
+    },
+    "items": {
+      "searchLabel": "How Can I Get Motor Insurance?"
+    }
+  },
+  "footer": {
+    "copyright": "Eureko Insurance. All rights reserved.",
+    "downloadMobile": "Download Eureko Mobile",
+    "blueBar": {
+      "socialMedia": "Eureko on Social Media",
+      "eurekoQuality": "Eureko Quality Policy",
+      "cookie": "Cookie Information",
+      "kvkk": "K.V.K.K Information Text",
+      "info": "Information Society Services",
+      "sitemap": "Sitemap"
+    }
+  },
+  "blog": {
+    "title": "Eureko Blog",
+    "button": {
+      "text": "All Blog Posts",
+      "cardFirst": "Read",
+      "cardSecond": "More"
+    }
+  },
+  "campaign": {
+    "title": "Campaigns",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non orci vitae quam rutrum tincidunt eget quis tellus. Sed ac pretium justo. Etiam tortor sem, egestas ac augue vel, fermentum pretium mauris.",
+    "button": {
+      "text": "All Campaigns",
+      "cardFirst": "Discover"
+    },
+    "digitalCampaign": {
+      "shortCut": {
+        "title": "Hemen Eureko Sigorta müşterisi olun, bu fırsatı kaçırmayın.",
+        "description": "Eureko Sigorta ailesine katılmak için sizi aramamızı ister misiniz? ",
+        "input": {
+          "name": "İsim Soyisim",
+          "phone": "Telefon Numaranız"
+        },
+        "button": {
+          "send": "Gönder"
+        }
+      },
+      "choosePersonel": "Sizin İçin",
+      "personelDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non orci vitae quam rutrum tincidunt eget quis tellus. Sed ac pretium justo. Etiam tortor sem,  egestas ac augue vel, fermentum pretium mauris.",
+      "chooseCommercial": "Şirketiniz İçin",
+      "commercialDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non orci vitae quam rutrum tincidunt eget quis tellus. Sed ac pretium justo. Etiam tortor sem,  egestas ac augue vel, fermentum pretium mauris."
+    },
+    "seoUrl": "/en/campaign"
+  },
+  "product": {
+    "button": {
+      "getProposal": "Get Proposal",
+      "buyNow": "Buy Now",
+      "moreInfo": "More Information"
+    },
+    "detail": {
+      "coverages": "Coverages",
+      "relatedDocuments": "Related Documents",
+      "knowledgeBases": "Knowledge Bases"
+    },
+    "about": {
+      "title": "About"
+    },
+    "coverage": {
+      "title": "Guarantees"
+    },
+    "document": {
+      "title": "Related Documents"
+    },
+    "knowledge-base": {
+      "title": "Things You Want To Know"
+    }
+  },
+  "corporate": {
+    "title": "Eureko Kurumsal",
+    "eurekoCorporate": {
+      "title": "About Us",
+      "button": {
+        "agreement": "Eureko Sigorta Agreement",
+        "infopolicy": "Information Policy"
+      },
+      "history": "History",
+      "partnership": "Partnership",
+      "archmeainformation": "About Archmea",
+      "seoUrl": "about-us"
+    },
+    "executiveBoard": {
+      "title": "Management",
+      "seoUrl": "management"
+    },
+    "companyStruct": {
+      "title": "Company Structure",
+      "seoUrl": "company-structure"
+    },
+    "financialStatement": {
+      "title": "Financial Information",
+      "description": "You can view our financial statements and activity reports and get information about our tax practices.",
+      "seoUrl": "financial-information",
+      "financialInfo": "Financial Info",
+      "documentType": "Document Type",
+      "year": "Year",
+      "month": "Month"
+    },
+    "socialResponsibility": {
+      "title": "Social Responsibility",
+      "seoUrl": "social-responsibility"
+    },
+    "satisFaction": {
+      "title": "Customer Satisfaction",
+      "seoUrl": "customer-satisfaction",
+      "contactFormTitle": "Customer Contact Form",
+      "contactFormSubTitle": "We listen to you. You can share with us if you have a suggestion or complaint.",
+      "contactFormButtonTitle": "Fill in the Communication Form"
+    },
+    "sustainability": {
+      "title": "Sustainability",
+      "seoUrl": "sustainability"
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "regionalDirectorates": {
+      "title": "Regional Directorates",
+      "seoUrl": "regional-directorates"
+    },
+    "agencies": {
+      "title": "Agencies",
+      "seoUrl": "agencies"
+    },
+    "writeUs": {
+      "title": "Write Us",
+      "seoUrl": "contact-us",
+      "FormTitle": "Customer Contact Form",
+      "FormFirstAreaTitle": "1. Can we learn your contact information?",
+      "FormSecondAreaTitle": "2. How can we help you?",
+      "FormSecondAreaWhatWouldYouLikeTitle": "What would you like to comment on?",
+      "FormSecondAreaThanksTitle": "Thanks/Suggestions Title",
+      "FormSecondAreaRequestAndSuggestionTitle": "Request Title",
+      "FormSecondAreaComplaintTitle": "Complaint Title",
+      "FormSecondAreaMessageTitle": "Message Title",
+      "FormSecondAreaCancellationProcess": "Cancellation Process",
+      "FormSecondAreaPolicyNo": "Policy Number",
+      "FormSecondAreaThanksDesc": "Thanks/Suggestions Detail",
+      "FormSecondAreaRequestAndSuggestionDesc": "Request Detail",
+      "FormSecondAreaComplaintDesc": "Complaint Detail",
+      "FormSecondAreaMessageDesc": "Message Detail",
+      "FormAddFile": "Add File"
+    },
+    "locationAddress": {
+      "title": "Location Address",
+      "seoUrl": "location-address"
+    }
+  },
+  "proposalShortCut": {
+    "title": "Start Your Insurance",
+    "description": "We value your feedback. You can contact us for all your suggestions and complaints.",
+    "input": {
+      "name": "Name Surname",
+      "phone": "Phone"
+    },
+    "button": {
+      "send": "Send"
+    }
+  },
+  "knowledge": {
+    "title": "Knowledge"
+  },
+  "legalInfo": {
+    "communication": {
+      "title": {
+        "communicationModelHeader": "Eureko Sigorta Communication Permission Text"
+      },
+      "body": {
+        "allowingDataForContact": "I agree that Eureko Sigorta automatically processes my identity and contact information in electronic media for the purpose of conducting advertising, campaigns and similar marketing activities and send commercial electronic messages to me in accordance with Law No. 6563 on Regulation of Electronic Commerce."
+      },
+      "text": {
+        "communicationAgreement": "Communication Authorization Text",
+        "read": "read"
+      }
+    },
+    "privacyPolicy": {},
+    "userAgreement": {
+      "text": {
+        "communicationAgreement": "The User Agreement",
+        "readAndApproved": "I have read and approved"
+      }
+    },
+    "cookie": {
+      "title": "Cookie Information",
+      "seoUrl": "cookie-policy"
+    },
+    "kvkk": {
+      "title": "KVKK Information Text",
+      "seoUrl": "personal-data-protection-law-privacy-policy"
+    },
+    "inaccurateInsurance": {
+      "title": "Informing of False Insurance Practices",
+      "seoUrl": "wrong-insurance-applications-information"
+    },
+    "mediation": {
+      "title": "Mandatory Mediation in Commercial Disputes",
+      "seoUrl": "commercial-disputes-mandatory-mediation"
+    },
+    "unsoughtMoney": {
+      "title": "Money Not Required by Right Holders",
+      "seoUrl": "moneys-unclaimed-by-rights-holders"
+    },
+    "qualityPolicy": {
+      "title": "Eureko Quality Policy",
+      "seoUrl": "eureko-quality-policy"
+    },
+    "compulsoryTraffic": {
+      "title": "Compulsory Traffic Insurance Bonus Calculation",
+      "seoUrl": "compulsory-traffic-insurance-bonus-calculation"
+    }
+  },
+  "career": {
+    "title": "Career at Eureko",
+    "campus": {
+      "title": "Eureko Campus | Eureko Insurance",
+      "seoUrl": "campus"
+    },
+    "start": {
+      "title": "Be with Eureko ",
+      "seoUrl": "start"
+    },
+    "life": {
+      "title": "Life at Eureko",
+      "seoUrl": "life"
+    },
+    "humanResources": {
+      "title": "Human Resources in Eureko",
+      "seoUrl": "humanResources"
+    }
+  },
+  "workplaceInsurance": {
+    "isyerimGaranti": {
+      "title": "İşyerim Garantide Sigortası",
+      "seoUrl": "isyerim-garantide-sigortasi"
+    },
+    "kobiHealth": {
+      "title": "SME Health Insurance",
+      "seoUrl": "sme-health-insurance"
+    },
+    "kobiGaranti": {
+      "title": "My SME is in Garanti",
+      "seoUrl": "my-sme-is-garanti"
+    },
+    "gasStation": {
+      "title": "Gas Station Insurance",
+      "seoUrl": "gas-station-insurance"
+    },
+    "hotel": {
+      "title": "Hotel Insurance",
+      "seoUrl": "hotel-insurance"
+    },
+    "commercialRisk": {
+      "title": "Commercial Risk",
+      "seoUrl": "commercial-risk"
+    }
+  },
+  "pressRoom": {
+    "announcements": {
+      "title": "Announcements",
+      "seoUrl": "announcements",
+      "button": "Read all"
+    },
+    "news": {
+      "title": "News",
+      "seoUrl": "news"
+    },
+    "headquarters": {
+      "title": "About Headquarters",
+      "seoUrl": "headquarters",
+      "logo": "Our Logo",
+      "photo": "Photo Gallery",
+      "news": "News Gallery"
+    },
+    "commercials": {
+      "title": "Advertisement Videos",
+      "seoUrl": "commercials"
+    }
+  },
+  "buttons": {
+    "ok": "OK",
+    "backToHomePage": "Back to Homepage",
+    "download": "Download",
+    "continue": "Continue",
+    "back": "Back",
+    "buy": "Buy",
+    "createProposal": "Create Proposal",
+    "query": "Query",
+    "select": "Choose",
+    "addPerson": "Add Person",
+    "addToPolicy": "Add To Policy",
+    "showAllResults": "Show All Results",
+    "searchService": "Search Service",
+    "hide": "Hide",
+    "filters": "Filters",
+    "listEmail": "Email list",
+    "loginVKN": "Login with VKN",
+    "loginTCKN": "Login with TCKN"
+  },
+  "texts": {
+    "city": "City",
+    "district": "District",
+    "subDistrict": "Village/Sub-district",
+    "neighborhood": "Neighborhood",
+    "street": "Street",
+    "building": "Building",
+    "flat": "Apartment",
+    "name": "First Name",
+    "surname": "Last Name",
+    "vkn": "Your Company's Tax ID Number (10 Digits)",
+    "tckn": "R.o.T. ID Number (11 Digits)",
+    "insuredTcknClaim": "R.o.T. ID Number of the insured",
+    "insuredTcknVknClaim": "Insured T.R. Identity/Tax Identity Number",
+    "identity": "R.o.T. ID No",
+    "customerNo": "Customer Number",
+    "tckn_vkn": "R.o.T. ID / Tax Number",
+    "inquiryWithNameAndBirthdate": "Inquiry by name and date of birth",
+    "taxNumber": "Tax Identification Number",
+    "birthDate": "Date of Birth",
+    "birthPlace": "Place of Birth",
+    "phone": "Phone Number",
+    "mobilePhone": "Cell Phone Number",
+    "faxNo": "Fax Number",
+    "email": "E-mail Address",
+    "myMobilePhone": "My Phone Number",
+    "myEmail": "My E-mail Address",
+    "smsCode": "Security Code",
+    "educationStatus": "Education Status",
+    "lastGraduatedSchool": "Last School Graduated From",
+    "yes": "Yes",
+    "no": "No",
+    "fullName": "Name Surname",
+    "insuredNameSurname": "First and last name of the person to be issued a policy:",
+    "insuredTckn": "R.o.T. ID Number of the person to be issued a policy:",
+    "insuredPhone": "Cell phone number of the person to be issued a policy:",
+    "insuredEmail": "E-mail address of the person to be issued a policy:",
+    "identityType": "Identity Type",
+    "idenCardType_TCKN": "TCKN",
+    "idenCardType_VKN": "VKN",
+    "illnessStatement": "If you indicate that you don't have any condition when you do, your policy will not be considered valid.",
+    "isAutoRenewalActive": "Renew policy automatically?",
+    "checkIllnessList": "Do you have any of the conditions listed below?",
+    "exists": "Yes",
+    "notExists": "No",
+    "enterSmsCode": "Enter Code",
+    "mine": "Mine",
+    "belongsOther": "Someone Else's",
+    "insured": "Insured",
+    "insurant": "Insurant",
+    "successfullOperation": "Transaction Completed Successfully",
+    "successfullOperationDesc": "Integer molestie arcu nec orci posuere, at vulputate massa suscipit. Morbi ipsum odio, blandit eget magna vel, suscipit dapibus libero.",
+    "isThereAdditionalInsured": "Are there any other people to add to the policy?",
+    "additionalInsuredNameSurname": "First and last name of person to be added to your policy",
+    "additionalInsuredTckn": "R.o.T. ID Number of person to be added to your policy (11 Digits):",
+    "insuranceTypeMe": "For myself",
+    "insuranceTypeOther": "For someone else",
+    "insuranceTypeCompany": "For my company",
+    "knownUAVTnumber": "I know the UAVT number",
+    "notKnownUAVTnumber": "I don't know the UAVT number",
+    "UAVTnumber": "UAVT number:",
+    "UAVTno": "UAVT no",
+    "address": "Address",
+    "addressCodeOrAddress": "I want to enter UAVT or address",
+    "approveAddress": "I confirm the address",
+    "inputTravelInfo": "Please enter information about the trip.",
+    "products": "Products",
+    "claimType": "Claim Type",
+    "sendDamageDocumentsEmailResult": "Document list has been sent to your e-mail address",
+    "loginBanner": "Eureko Sigorta Always With You!",
+    "loginTitle": "User Login",
+    "loginDesc": "Please Select Login Method",
+    "traficPrimCalculate": "Compulsory Traffic Insurance Premium Calculator"
+  },
+  "links": {
+    "seeAllCoverages": "Show All Coverages",
+    "seeAllProducts": "Show All Products",
+    "close": "Close"
+  },
+  "claim": {
+    "claimManagement": {
+      "title": "Hasar Yönetimi",
+      "institutions": "Contracted Institutions",
+      "search": "Search Institution",
+      "motto": "Eureko Insurance is at your side in emergencies",
+      "items": {
+        "claimTransactions": {
+          "title": "Claim Transactions",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu convallis nisi. Aliquam imperdiet et sapien fringilla facilisis. Vivamus fringilla ac lorem nec ullamcorper. Quisque ut mattis elit, quis auctor risus. Duis feugiat lorem pellentesque risus maximus lacinia. Praesent id sollicitudin enim, ut tristique felis.",
+          "mobileAppTitle": "Eureko Sigorta Mobile Usage Package for all your emergencies",
+          "mobileAppText": "Download Now"
+        },
+        "claimInstantly": {
+          "title": "At the Time of Damage",
+          "desc": "Select your insurance package and damage type. Prepare the documentation required for your damage statement. Then make an {0} or call {1}"
+        },
+        "yourCuriosities": {
+          "title": "Your Curiosities",
+          "desc": "Sigorta paketinizi ve hasar tipinizi seçiniz. Hasar bildiriminiz için gereken belgeleri hazırlayarak Online Hasar Bildirimi yapabilir ya da 0850 222 66 60 numaralı Müşteri İletişim Merkezi’mizi arayabilirsiniz."
+        }
+      }
+    },
+    "claimInquiry": {
+      "claimNumber": "Claim Number",
+      "plateInformation": "Plate Information",
+      "yourPlateInformation": "Your Plate Information",
+      "policyNumber": "Policy Number",
+      "yourPolicyNumber": "Your Policy Number"
+    }
+  },
+  "payment": {
+    "cardOwnersName": "Card owner's name and last name",
+    "cardNumber": "Car Number",
+    "expirationDate": "Expiration Date (Month/Year)",
+    "singlePay": "Single Payment"
+  },
+  "proposal": {
+    "travel": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Personal Information"
+        },
+        {
+          "index": "2",
+          "title": "SMS Verification"
+        },
+        {
+          "index": "3",
+          "title": "Travel Information"
+        },
+        {
+          "index": "4",
+          "title": "Coverages"
+        },
+        {
+          "index": "5",
+          "title": "Proposal"
+        },
+        {
+          "index": "6",
+          "title": "Purchase"
+        }
+      ],
+      "title": "Get a Travel Health Insurance Proposal",
+      "description": "Want to get a Travel Health Insurance proposal for yourself or someone else?",
+      "departureDate": "Departure Date",
+      "returnDate": "Return Date",
+      "travelType": "Travel Type",
+      "tourist": "Tourist",
+      "student": "Student",
+      "transporter": "Transporter",
+      "travelSixMonthControl": "The travel time of your policy exceeds 6 months. Each time you travel abroad, your guarantee is limited to 6 weeks for touristic or business purposes and 6 months for student travel. Your policy provides guarantee for a total of 184 days of travel per year.",
+      "travelIsDepartureDateSameWithToday": "Policies purchased today start to provide coverage after 24 hours. In order for your policy to be valid, it must be purchased before exiting TC customs.",
+      "travelIsDepartureDateGreaterThanToday": "In order for your policy to be valid, it must be purchased before exiting TC customs.",
+      "nonAsistanceProposalTitle": "Eureko Sigorta Unassisted Travel Health Insurance",
+      "asistanceProposalTitle": "Eureko Sigorta Assisted Travel Health Insurance"
+    },
+    "traffic": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Personal Information"
+        },
+        {
+          "index": "2",
+          "title": "SMS Verification"
+        },
+        {
+          "index": "3",
+          "title": "Vehicle Information"
+        },
+        {
+          "index": "4",
+          "title": "Proposal"
+        },
+        {
+          "index": "5",
+          "title": "Purchase"
+        }
+      ],
+      "title": "Get a Traffic Insurance Proposal",
+      "description": "Who owns the vehicle to be insured?",
+      "brand": "Brand",
+      "autoType": "Vehicle Type",
+      "partnerCampaign": "Special Advantages for You",
+      "serviceType": "Service Type",
+      "brandModel": "Model",
+      "modelYear": "Model Year",
+      "motorNo": "Engine Number",
+      "chassisNo": "VIN",
+      "registrationDate": "Registration Date",
+      "trafficReleaseDate": "Date of First Registration",
+      "passengerCapacity": "Number of Seats",
+      "standingPassengerExists": "Are There Standing Passengers?",
+      "standingPassengerNumber": "Number of Standing Passengers",
+      "loadCapacity": "Load capacity",
+      "institutionType": "Institution Type",
+      "institutionName": "Institution Name",
+      "insuranceType": "Guarantee Type",
+      "productType": "Product Type",
+      "licencePlate": "Licence Plate Number",
+      "registrationSerialNo": "Registration Document Serial Number",
+      "documentAsbisNo": "Vehicle Registation / ASBİS number",
+      "vehicleOwnerName": "First and Last Name of the Vehicle Owner",
+      "vehicleOwnerTckn": "R.o.T. ID Number of the Vehicle Owner",
+      "vehicleOwnerPhone": "Cell Phone Number of the Vehicle Owner",
+      "vehicleOwnerEmail": "E-mail Address of the Vehicle Owner",
+      "actionTypeFirstTime": "I want to have insurance for the first time",
+      "actionTypeRenew": "I want to renew my insurance",
+      "vehicleTypeNew": "Vehicle Mileage Is Zero",
+      "vehicleTypeSecondhand": "Second-hand Vehicle",
+      "vehiclePlateExists": "I have a licence plate",
+      "vehiclePlateNonExists": "I do not have a license plate",
+      "vehiclePlateCity": "Plate City Code",
+      "vehicleDrivingType": "Type of Use",
+      "carInfoTitle": "Vehicle Information",
+      "carInfoText": "Please select the operation you want to perform and enter the relevant information for the vehicle to be insured.",
+      "carInfoTex2": "Please enter the relevant information for the vehicle to be insured.",
+      "hasLiquidGas": "My vehicle runs on LPG",
+      "hasExtraEquipment": "My vehicle has additional equipment",
+      "giveExtraEquipmentInfo": "Please give additional equipment information",
+      "equipment": "Equipment",
+      "audioAndVideo": "Audio and Video Device",
+      "equipmentName": "Name",
+      "equipmentPrice": "Cost (TRY)",
+      "damageInformation": "No-Claim Information",
+      "claimableTransferQuestion": "Would you like us to use the no-claim information from another vehicle of yours to grant a discount to your offer according to said no-claim information?",
+      "claimableTransferPlate": "The license plate of the vehicle from which you want to receive no-claim information:"
+    },
+    "fourseasonshealth": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Personal Information"
+        },
+        {
+          "index": "2",
+          "title": "SMS Verification"
+        },
+        {
+          "index": "3",
+          "title": "Proposal"
+        },
+        {
+          "index": "4",
+          "title": "Purchase"
+        }
+      ],
+      "title": "Get a 4 Seasons Health Insurance Proposal",
+      "description": "Please fill in the form to get a proposal"
+    },
+    "home": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Personal Information"
+        },
+        {
+          "index": "2",
+          "title": "SMS Verification"
+        },
+        {
+          "index": "3",
+          "title": "Address Info"
+        },
+        {
+          "index": "4",
+          "title": "Coverages"
+        },
+        {
+          "index": "5",
+          "title": "Proposal"
+        },
+        {
+          "index": "6",
+          "title": "Purchase"
+        }
+      ],
+      "title": "Get a Home Insurance Proposal",
+      "description": "Want to get a Home Insurance proposal for yourself or someone else?",
+      "addressTitle": "Address Info",
+      "addressDescription": "Please enter the address information of the house to be insured.",
+      "housingAddress": "Housing Address",
+      "homeInfo": "House Information",
+      "giveHomeInfo": "Please enter information related to the house to be insured.",
+      "propetyStatus": "Property status of the housing to be insured",
+      "homeArea": "Size of the house to be insured",
+      "isAutoRenewalActive": "Renew policy automatically?",
+      "usageTypeOwner": "Property owner",
+      "usageTypeTenant": "Tenant",
+      "homeCoverageTypesHousingGoods": "Housing and Goods",
+      "homeCoverageTypesHousing": "Housing",
+      "homeCoverageTypesGoods": "Goods",
+      "homeHousingGoodsCoverages": "Housing and Goods Standard Coverages",
+      "homeHousingCoverages": "Housing Standard Coverages",
+      "homeGoodsCoverages": "Goods Standard Coverages",
+      "constructionTypesSteel": "STEEL, REINFORCED CONCRETE",
+      "constructionTypesMasonry": "MASONRY STRUCTURES",
+      "constructionTypesOrdinaryMasonry": "ORDINARY MASONRY STRUCTURES",
+      "constructionTypesOther": "OTHER STRUCTURES",
+      "homeUsageType": "Type of use of the house",
+      "homeConstructionTypes": "Building style of the house",
+      "homeFloorCounts": "Number of floors in the building",
+      "homeConstructionDate": "Building year",
+      "homeInsuranceState": "Is the building already damaged?",
+      "insuranceState": "Damage situation",
+      "hasInsurance": "No Damage",
+      "hasNotInsurance": "Damaged"
+    },
+    "motor": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Personal Information"
+        },
+        {
+          "index": "2",
+          "title": "SMS Verification"
+        },
+        {
+          "index": "3",
+          "title": "Vehicle Information"
+        },
+        {
+          "index": "4",
+          "title": "No-Claim Information"
+        },
+        {
+          "index": "5",
+          "title": "Proposal"
+        },
+        {
+          "index": "6",
+          "title": "Purchase"
+        }
+      ],
+      "title": "Get a Casco Insurance Proposal",
+      "description": "Who owns the vehicle to be insured?",
+      "addNewEquipment": "Add new additional equipment",
+      "removeEquipment": "Cancel the additional equipment",
+      "addToPolicy": "Add to My Policy"
+    },
+    "dask": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Personal Information"
+        },
+        {
+          "index": "2",
+          "title": "SMS Verification"
+        },
+        {
+          "index": "3",
+          "title": "Address Info"
+        },
+        {
+          "index": "4",
+          "title": "Coverages"
+        },
+        {
+          "index": "5",
+          "title": "Proposal"
+        },
+        {
+          "index": "6",
+          "title": "Purchase"
+        }
+      ],
+      "title": "Get a Compulsory Earthquake Insurance Proposal",
+      "description": "Would you like to receive a Compulsory Earthquake Insurance proposal for yourself or for someone else?"
+    },
+    "salesAgreement": {
+      "title": "Distance Sales Agreement",
+      "text": "Distance Sales Agreement",
+      "readAndApproved": "I have read and approved"
+    },
+    "policyInformation": {
+      "title": "Policy Information Text",
+      "text": "Policy Information Text",
+      "readAndApproved": "I have read and approved"
+    }
+  },
+  "datePicker": {
+    "departureDatePlaceholder": "Departure Date",
+    "returnDatePlaceholder": "Return Date"
+  },
+  "siteSearch": {
+    "whatYouWantToSearch": "What did you want to search?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit quis lacus blandit cursus non non erat",
+    "faq": "Frequently asked Questions",
+    "results": "Results",
+    "goToResults": "Go to Page",
+    "placeholder": "How to buy casco insurance?"
+  },
+  "contractedProviders": {
+    "title": "Contracted Institutes",
+    "vehicleServices": "Vehicle Services",
+    "healthInstitutes": "Health Institutes",
+    "healthSeoUrl": "contracted-health-services",
+    "vehicleSeoUrl": "contracted-motor-vehicle-services",
+    "institutionType": "Institution Type",
+    "productType": "Product Type"
+  },
+  "trafficCalculator": {
+    "operatingType": "Operating Type",
+    "vehicleType": "Vehicle Type",
+    "calculationResult": "Calculation Results",
+    "minPremium": "Minimum Premium Amount",
+    "maxPremium": "Maximum Premium Amount"
+  }
+}
