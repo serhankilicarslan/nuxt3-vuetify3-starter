@@ -1,0 +1,625 @@
+@import url("https://use.typekit.net/pqg8oll.css");
+
+@import 'icons';
+@import 'grid';
+
+html,
+body {
+  max-width: 100%;
+  // overflow-x: hidden;
+  font-family: "soleil", sans-serif;
+  font-style: normal;
+  font-display: auto;
+  font-weight: 400;
+  letter-spacing: normal;
+  font-size: 16px;
+}
+
+button,
+input,
+select,
+textarea {
+  font-display: auto;
+}
+
+a {
+  text-decoration: none !important;
+}
+
+// *--------- Dialog Start  ---------* //
+@media screen and (min-width: 600px) {
+  .v-dialog>.v-overlay__content {
+    width: 80% !important;
+  }
+}
+
+// Dialog - End //
+
+// *--------- Form Element Start  ---------* //
+
+// Button - Start //
+.v-btn {
+  text-transform: capitalize;
+}
+
+.v-btn__content {
+  text-transform: capitalize;
+}
+
+.v-btn__append {
+  margin: 3px 0px 0px 4px;
+}
+
+// Button - End //
+
+// Input - Start //
+
+.v-input__details {
+  padding: 0 !important;
+  min-height: auto !important;
+}
+
+.v-checkbox .v-selection-control {
+  min-height: 40px !important;
+}
+
+/* .v-selection-control__input {
+  align-items: start !important;
+}*/
+
+// .proposalShortCut.help .v-checkbox .v-input__details {
+//   display: none;
+// }
+
+.checkboxLabel {
+  color: $text-color12;
+}
+
+// Input - End //
+
+.v-expansion-panel__shadow {
+  box-shadow: none !important;
+}
+
+.v-expansion-panel--active>.v-expansion-panel-title {
+  min-height: 0 !important;
+  border-bottom: 1px solid #f2f2f2 !important;
+}
+
+.v-expansion-panel-title:hover>.v-expansion-panel-title__overlay,
+.v-expansion-panel-title--active:hover>.v-expansion-panel-title__overlay {
+  opacity: 0 !important;
+}
+
+.v-expansion-panel,
+.v-expansion-panel--active {
+  border-radius: 0 !important;
+}
+
+.v-expansion-panels--variant-accordion>.v-expansion-panel::after {
+  border-top: 1px solid #f2f2f2 !important;
+}
+
+// *--------- Form Element End  ---------* //
+
+
+.proposal .belong {
+  letter-spacing: 1px;
+  line-height: 24px;
+  font-weight: 700;
+  font-size: 0.875em;
+  color: $dark-bg1;
+}
+
+.proposal .divider {
+  width: 100%;
+  // height: 1px;
+  background-color: $border-color1;
+  margin-bottom: 0.5em;
+}
+
+
+.proposal .back-button {
+  border: 1px solid rgba(64, 64, 64, 0.2) !important;
+}
+
+/* Select Input */
+.select.is-fullwidth,
+.select.is-fullwidth select {
+  width: 100%;
+}
+
+.select,
+.select select {
+  height: 32px;
+  position: relative;
+  vertical-align: top;
+}
+
+input.input.input,
+.field .select select {
+  height: 48px;
+  line-height: inherit;
+  margin-bottom: 5px;
+}
+
+.select:not(.is-multiple):not(.is-loading)::after,
+.navbar-link::after {
+  margin-top: 5px !important;
+}
+
+.select:not(.is-multiple):not(.is-loading)::after {
+  background: url("~/assets/images/icons/down-arrow.svg") no-repeat 0 0 / 10px;
+  width: 10px;
+  height: 8px;
+  border: none;
+  display: flex;
+  align-items: center;
+}
+
+.select:not(.is-multiple):not(.is-loading)::after,
+.navbar-link::after {
+  content: " ";
+  pointer-events: none;
+  position: absolute;
+  -webkit-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transform-origin: center;
+  transform-origin: center;
+  width: 0.625em;
+  top: 50%;
+  margin-top: 2px;
+}
+
+.select:after {
+  border: 1px solid #3c81df;
+  border-right: 0;
+  border-top: 0;
+  content: " ";
+  display: block;
+  height: 7px;
+  pointer-events: none;
+  position: absolute;
+  transform: rotate(-45deg);
+  width: 7px;
+  margin-top: -6px;
+  right: 16px;
+  top: 50%;
+}
+
+select:disabled,
+.input:disabled {
+  color: v $text-color8;
+  background-color: #edf4f7;
+  border: solid 1px #d7e4e9;
+}
+
+.field {
+  margin: 10px 0;
+}
+
+.field label {
+  font-size: 0.875em;
+}
+
+.field .select select {
+  background-color: white !important;
+  font-size: 0.874em;
+  padding: 0 15px;
+  font-weight: 500;
+  color: $text-color5;
+  border: solid 1px #cfdee4;
+}
+
+.field .select select.unselect {
+  color: $text-color3;
+}
+
+.field .select {
+  margin-top: 5px;
+  margin-bottom: 16px;
+}
+
+.field select:disabled {
+  background-color: $light-bg2 !important;
+  color: #b8c5ca !important;
+}
+
+.field.disabled label {
+  color: #b3c5cd;
+}
+
+button,
+.button {
+  border-radius: 4px;
+  font-family: "soleil", sans-serif;
+  font-display: auto;
+}
+
+/* ------  Button Size ------ */
+.button.is-medium {
+  height: 48px;
+  font-size: 15px;
+  font-weight: 500;
+  margin-bottom: 0.375em;
+}
+
+.button.is-large {
+  font-size: 0.938em;
+}
+
+/* ------  Button Size ------ */
+
+/* ------  Primary Button ------ */
+.button.is-primary {
+  background-color: $btn-primary;
+}
+
+.button.is-primary:hover,
+.button.is-primary.is-hovered,
+.button.is-light:focus {
+  background-color: $btn-primary-hover;
+}
+
+.button.is-primary:active {
+  background-color: $btn-primary-active;
+}
+
+.button.is-primary:disabled,
+.button.is-primary.disabled {
+  cursor: not-allowed;
+  background-color: $btn-primary-disable;
+}
+
+/* ------  Primary Button ------ */
+
+/* ------  Light Button ------ */
+.button.is-light {
+  background-color: $light-bg1;
+  color: $btn-primary;
+  font-weight: bold;
+  border: solid 1px $btn-light;
+}
+
+.button.is-light:hover,
+.button.is-light.is-hovered,
+.button.is-light:focus {
+  background-color: $light-bg1;
+  color: $eureko-blue;
+  border: solid 1px $btn-light-hover;
+}
+
+.button.is-light.is-active,
+.button.is-primary:active {
+  background-color: $btn-light-active;
+}
+
+.button.is-light:disabled,
+.button.is-light.disabled {
+  cursor: not-allowed;
+  color: $btn-light-disable;
+  border: solid 1px $btn-light-disable;
+}
+
+/* ------  Light Button ------ */
+
+/* ------  Borderless Button ------ */
+.button.is-borderless {
+  background-color: $light-bg1;
+  color: $btn-primary;
+  font-weight: bold;
+}
+
+.button.is-borderless:hover,
+.button.is-borderless.is-hovered,
+.button.is-borderless:focus {
+  background-color: $light-bg1;
+  color: $eureko-blue;
+}
+
+.button.is-borderless.is-active,
+.button.is-primary:active {
+  background-color: $btn-light-active;
+}
+
+.button.is-borderless:disabled,
+.button.is-borderless.disabled {
+  cursor: not-allowed;
+  color: $btn-light-disable;
+}
+
+/* ------  Borderless Button ------ */
+
+/* ------  Info Button ------ */
+.button.is-info {
+  background-color: $btn-info;
+}
+
+.button.is-info:hover,
+.button.is-info.is-hovered,
+.button.is-info:focus {
+  background-color: $btn-info-hover;
+}
+
+.button.is-info.is-active,
+.button.is-info:active {
+  background-color: $btn-info-active;
+}
+
+.button.is-info:disabled,
+.button.is-info.disabled {
+  background-color: $btn-info-disable;
+}
+
+/* ------  Light Button ------ */
+
+
+/*Vee Validation*/
+label.is-danger,
+.input.is-danger,
+textarea.is-danger,
+select.is-danger,
+select.input.is-danger {
+  margin-bottom: 0 !important;
+  border-color: $border-color6 !important;
+  color: $text-color3 !important;
+}
+
+.help.is-danger {
+  color: var(--border-color6);
+  font-size: 12px;
+  letter-spacing: -0.3px;
+  max-height: 50px;
+  margin-top: 0;
+  margin-bottom: 0.9375em;
+}
+
+.help.is-warning {
+  font-size: 14px;
+  margin: 10px 0;
+}
+
+/*validaiton end*/
+
+/* radio and checkbox - start */
+.radio-group .label {
+  height: 48px;
+  border: 1px solid #dbdbdb;
+}
+
+.radio-group label.v-selection-control--dirty {
+  border: 1px solid $text-color7;
+  color: $text-color7
+}
+
+/*
+.blu-radio, .blu-checkbox {
+	padding-left: 28px;
+	margin-bottom: 10px;
+  }
+  .blu-radio:before, .blu-checkbox:before {
+	background-color: #eff4f7;
+	border: 1px solid #b9c6d4;
+	width: 20px;
+	height: 20px;
+  }
+  .blu-radio.on:before {
+		border: 1px solid $text-color7;
+  }
+  .blu-checkbox.is-primary.on:before {
+	background-color: $text-color7;
+	border-color: $text-color7;
+  }
+  .blu-radio.on:after {
+	background: $text-color7;
+	width: 14px;
+	height: 14px;
+	top: 3px;
+	left: 3px;
+	border: none;
+	border-radius: 100%;
+  }
+  .blu-checkbox.on:after {
+	background: $text-color7;
+	font-size: 14px;
+	padding: 0;
+	width: 14px;
+	height: 14px;
+	top: 3px;
+	left: 3px;
+	border: none;
+  }
+  .blu-checkbox span, .blu-radio span {
+	font-family: "soleil",sans-serif;
+	font-display: auto;
+	font-size: 0.813em;
+	line-height: 1.36;
+	font-weight: normal;
+	font-style: normal;
+	font-stretch: normal;
+	color: #7c899d;
+  }
+  .control.has-addons.radio-row {
+	display: block !important;
+  }
+  .control.has-addons.radio-row label {
+	width: 100%;
+  }
+  .control.has-addons.radio-row label.radio+.radio {
+	margin-left: 0;
+  }
+  .border-radio label {
+	height: 48px;
+	border-radius: 4px;
+	border: solid 1px $border-color3;
+	display: flex;
+	align-items: center;
+	width: 100%;
+  }
+  .border-radio .on {
+	border: solid 1px $text-color7;
+  }
+  .border-radio .blu-radio:before {
+	margin-left: 11px;
+    top: 13px;
+  }
+  .border-radio .blu-radio.on:after {
+	margin-left: 11px;
+	top: 16px;
+  }
+  .border-radio .blu-radio span {
+	font-size: 0.875em;
+	color: $text-color3;
+	margin: 0 11px 0 15px;
+	line-height: 1.29;
+	letter-spacing: normal;
+	color: $eureko-blue;
+  }
+  .border-radio .on span {
+	color: $text-color7;
+  }
+  .border-radio-list {
+	  display: block !important;
+  }
+  .border-radio-list .radio+.radio {
+	  margin-left: 0;
+  }
+  */
+
+/* radio and checkbox - end */
+
+/* Input - start */
+.input.is-active,
+.input:active,
+.input:focus,
+.textarea.is-active,
+.textarea:active,
+.textarea:focus {
+  border-color: $text-color2;
+  outline: none;
+}
+
+label.disabled,
+span.disabled,
+input.disabled {
+  color: #d7e4e9;
+}
+
+.disabled .blu-radio:before,
+.blu-checkbox:before {
+  background-color: #edf4f7;
+  ;
+  border: 1px solid #d7e4e9;
+  width: 20px;
+  height: 20px;
+}
+
+label.label {
+  font-size: 0.875em;
+  font-weight: normal !important;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  color: #283136;
+}
+
+textarea {
+  width: 100%;
+  height: 96px;
+  resize: none;
+  border-radius: 4px;
+  background-color: #f6fbfd;
+  border: solid 1px #cfdee4;
+  margin-bottom: 5px;
+  padding: 7px 10px;
+  letter-spacing: -0.3px;
+  color: $text-color5;
+}
+
+input.input {
+  padding: 20px 11px;
+  border-radius: 4px;
+  background-color: #f6fbfd;
+  border: solid 1px #cfdee4;
+  margin-bottom: 0.9375em;
+  letter-spacing: -0.3px;
+  color: $text-color5;
+}
+
+input.input::placeholder {
+  /* Chrome, Firefox, Opera, Safari 10.1+ */
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  color: #7c899d;
+  opacity: 1;
+  /* Firefox */
+}
+
+input.input:-ms-input-placeholder {
+  /* Internet Explorer */
+  font-size: 14px;
+  font-weight: normal;
+  font-style: normal;
+  font-stretch: normal;
+  line-height: normal;
+  letter-spacing: -0.3px;
+  color: #7c899d !important;
+  opacity: 1;
+}
+
+/* Input - end */
+
+/* Change Autocomplete styles in Chrome*/
+input:-webkit-autofill,
+textarea:-webkit-autofill,
+select:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0px 1000px #f6fbfd inset;
+
+  -webkit-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
+
+  background-color: #f6fbfd;
+  border: solid 1px #cfdee4;
+}
+
+input.disabled:-webkit-autofill,
+textarea.disabled:-webkit-autofill,
+select.disabled:-webkit-autofill {
+  /*color:var(--text-color8) !important;
+	background-color: #edf4f7 !important;*/
+  border: solid 1px #d7e4e9 !important;
+
+  -webkit-transition: background-color 1000ms linear;
+  -ms-transition: background-color 1000ms linear;
+  transition: background-color 1000ms linear;
+
+  background-color: $light-bg2 !important;
+  color: #b8c5ca !important;
+  -webkit-text-fill-color: #b8c5ca !important;
+}
+
+input[type="date"]::-webkit-inner-spin-button,
+input[type="date"]::-webkit-calendar-picker-indicator {
+  display: none;
+  -webkit-appearance: none;
+}
+
+::-webkit-datetime-edit-year-field:not([aria-valuenow]),
+::-webkit-datetime-edit-month-field:not([aria-valuenow]),
+::-webkit-datetime-edit-day-field:not([aria-valuenow]) {
+  color: transparent;
+}
+
+.grecaptcha-badge {
+  visibility: hidden;
+}
+
+.el-range-editor--large .el-range-input {
+  font-size: 0.875em;
+}

@@ -1,0 +1,844 @@
+//Vars
+$iconsPath : "~/assets/images/icons";
+
+.phone-icon-white {
+    background: url("#{$iconsPath}/phone-icon-white.svg") no-repeat scroll 0 0 / 17px;
+    width: 17px !important;
+    height: 17px !important;
+}
+
+.address-pin-icon {
+    background: url("#{$iconsPath}/MapPin.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 18px;
+}
+
+.address-phone-icon {
+    background: url("#{$iconsPath}/PhoneCall.svg") no-repeat scroll 0 0 / 18px;
+    width: 18px;
+    height: 18px;
+}
+
+.clipboard-text {
+    background: url("#{$iconsPath}/clipboard-text.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 30px;
+}
+
+.handshake {
+    background: url("#{$iconsPath}/handshake.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 30px;
+}
+
+.handshake_black {
+    background: url("#{$iconsPath}/handshake_black.svg") no-repeat scroll 0 0 / 15px;
+    width: 15px;
+    height: 15px;
+}
+
+.car-blue {
+    background: url("#{$iconsPath}/car-blue.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.gear-blue {
+    background: url("#{$iconsPath}/gear-blue.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.heartbeat {
+    background: url("#{$iconsPath}/heartbeat.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 30px;
+}
+
+.wrench {
+    background: url("#{$iconsPath}/wrench.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 30px;
+}
+
+.check-icon {
+    background: url("#{$iconsPath}/checkCircle.svg") no-repeat scroll 0 0 / 55px;
+    width: 55px;
+    height: 55px;
+}
+
+.check-icon-min {
+    background: url("#{$iconsPath}/checkCircleMin.svg") no-repeat scroll 0 0 / 24px;
+    width: 24px;
+    height: 24px;
+}
+
+.check-icon-min-black {
+    background: url("#{$iconsPath}/checkCircleMinBlack.svg") no-repeat scroll 0 0 / 24px;
+    width: 24px;
+    height: 24px;
+}
+
+.warning-icon {
+    background: url("#{$iconsPath}/warningCircle.svg") no-repeat scroll 0 0 / 55px;
+    width: 55px;
+    height: 55px;
+}
+
+.wrench_black {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/wrench_black.svg");
+    mask-image: url("#{$iconsPath}/wrench_black.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.question-mark {
+    background: url("#{$iconsPath}/question-mark.svg") no-repeat scroll 0 0 / 100%;
+    width: 35px;
+    height: 35px;
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+    margin-left: -3px;
+}
+
+.question-mark_black {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/questionMark-black.svg");
+    mask-image: url("#{$iconsPath}/questionMark-black.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.coverage-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/products-menu-icon.svg");
+    mask-image: url("#{$iconsPath}/products-menu-icon.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.shipment-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/truck.svg");
+    mask-image: url("#{$iconsPath}/truck.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.liability-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/warning.svg");
+    mask-image: url("#{$iconsPath}/warning.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.cyberrisk-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/storefront.svg");
+    mask-image: url("#{$iconsPath}/storefront.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.isyerimGaranti-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/buildings.svg");
+    mask-image: url("#{$iconsPath}/buildings.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.agriculture-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/leaf.svg");
+    mask-image: url("#{$iconsPath}/leaf.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.engineering-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/engineering.svg");
+    mask-image: url("#{$iconsPath}/engineering.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.credit-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/credit-product-icon.svg");
+    mask-image: url("#{$iconsPath}/credit-product-icon.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.blankNote {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/blankNote.svg");
+    mask-image: url("#{$iconsPath}/blankNote.svg");
+    width: 15px;
+    height: 15px;
+}
+
+.phone-icon {
+    background: url("#{$iconsPath}/phone.svg") no-repeat scroll 0 0 / 100%;
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+    margin-left: -3px;
+}
+
+.map-pin-blue-icon {
+    background: url("#{$iconsPath}/mapPinBlue.svg") no-repeat scroll 0 0 / 100%;
+    width: 18px;
+    height: 18px;
+}
+
+.chat-circle {
+    background: url("#{$iconsPath}/chat-circle.svg") no-repeat scroll 0 0 / 100%;
+    width: 35px;
+    height: 35px;
+    width: 26px;
+    height: 26px;
+    margin-right: 10px;
+    margin-left: -3px;
+}
+
+.help-assistant {
+    background: url("#{$iconsPath}/help-assistant.svg") no-repeat scroll 0 0 / 335px;
+    width: 335px;
+    height: 335px;
+}
+
+.mobile-app {
+    background: url("#{$iconsPath}/mobile-app.svg") no-repeat scroll 0 0 / 553px;
+    width: 512px;
+    height: 553px;
+}
+
+.whatsapp {
+    background: url("#{$iconsPath}/WhatsappLogo.svg") no-repeat scroll 0 0 / 29px;
+    width: 29px;
+    height: 29px;
+}
+
+.whatsapp-icon {
+    background: url("#{$iconsPath}/whatsapp-icon.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.shieldCheck {
+    background: url("#{$iconsPath}/shieldCheckBlue.svg") no-repeat scroll 0 0 / 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.tech-icon {
+    background: url("#{$iconsPath}/tech.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+    margin: 0 auto;
+}
+
+.global-icon {
+    background: url("#{$iconsPath}/global.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+    margin: 0 auto;
+}
+
+.expert-icon {
+    background: url("#{$iconsPath}/expert.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+    margin: 0 auto;
+}
+
+.clock {
+    background: url("#{$iconsPath}/clock.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.ticket {
+    background: url("#{$iconsPath}/ticket.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.fileArrowDown {
+    background: url("#{$iconsPath}/fileArrowDown.svg") no-repeat scroll 0 0 / 32px;
+    width: 32px;
+    height: 32px;
+}
+
+.replace-icon {
+    background: url("#{$iconsPath}/replace-icon.svg");
+}
+
+.security-icon {
+    background: url("#{$iconsPath}/security-icon.svg");
+}
+
+.service-icon {
+    background: url("#{$iconsPath}/service-icon.svg");
+}
+
+.camera-icon {
+    background: url("#{$iconsPath}/camera.svg");
+    width: 30px !important;
+    height: 30px !important;
+    background-size: 100% !important;
+}
+
+.browsers-simple-icon {
+    background: url("#{$iconsPath}/browsersSimple.svg");
+    width: 30px !important;
+    height: 30px !important;
+    background-size: 100% !important;
+}
+
+.alert-circle-icon {
+    background: url("#{$iconsPath}/alert-circle-icon.svg");
+}
+
+.contract-icon {
+    background: url("#{$iconsPath}/contract-icon.svg");
+}
+
+.crash-icon {
+    background: url("#{$iconsPath}/crash-icon.svg");
+}
+
+.megaphone-icon {
+    background: url("#{$iconsPath}/megaphone.svg");
+}
+.megaphone-icon-green {
+    background: url("#{$iconsPath}/megaphone-icon-green.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.customize-icon {
+    background: url("#{$iconsPath}/customize-icon.svg");
+}
+
+.discount-icon {
+    background: url("#{$iconsPath}/discount-icon.svg");
+}
+
+.family-icon {
+    background: url("#{$iconsPath}/family-icon.svg");
+}
+
+.health-icon {
+    background: url("#{$iconsPath}/health-icon.svg");
+}
+
+.help-icon {
+    background: url("#{$iconsPath}/help-icon.svg");
+}
+
+.home-security-icon {
+    background: url("#{$iconsPath}/home-security-icon.svg");
+}
+
+.other-user-icon {
+    background: url("#{$iconsPath}/other-user-icon.svg");
+}
+
+.password-icon {
+    background: url("#{$iconsPath}/password-icon.svg");
+}
+
+.protect-icon {
+    background: url("#{$iconsPath}/protect-icon.svg");
+}
+
+.spy-icon {
+    background: url("#{$iconsPath}/spy-icon.svg");
+}
+
+.wave-icon {
+    background: url("#{$iconsPath}/wave-icon.svg");
+}
+
+.brief-case-icon {
+    background: url("#{$iconsPath}/briefcase.svg");
+}
+
+.file-plus-icon {
+    background: url("#{$iconsPath}/filePlus.svg");
+}
+
+.location-icon {
+    background: url("#{$iconsPath}/location.svg");
+    width: 40.6px !important;
+    height: 54.14px !important;
+}
+
+.arrow-line-down-icon {
+    background: url("#{$iconsPath}/arrowLineDown.svg");
+    background-size: 100%;
+    width: 30px !important;
+    height: 30px !important;
+}
+
+.eureko-logo {
+    background: url("~/assets/images/logo/eureko-logo.png");
+    width: 304px !important;
+    height: 71px !important;
+    background-size: 100%;
+}
+
+.hand-tick-icon {
+    background: url("#{$iconsPath}/hand-tick.svg");
+}
+
+.doc-tick-icon {
+    background: url("#{$iconsPath}/doc-tick.svg");
+}
+
+.document-claim-icon {
+    background: url("#{$iconsPath}/document-claim.svg");
+}
+
+.file-search-icon {
+    background: url("#{$iconsPath}/fileSearch.svg");
+}
+
+.folder-open-icon {
+    background: url("#{$iconsPath}/folder-open.svg");
+}
+
+.folder-notch-plus-blue-icon {
+    background: url("#{$iconsPath}/folderNotchPlusBlue.svg");
+}
+
+.folder-notch-plus-white-icon {
+    background: url("#{$iconsPath}/folderNotchPlusWhite.svg");
+}
+
+.huawei-icon {
+    background: url("#{$iconsPath}/huaweistore.svg");
+    width: 75px;
+    height: 75px;
+    background-size: 100%;
+}
+
+.apple-store-icon {
+    background: url("#{$iconsPath}/appstore.svg");
+    width: 75px;
+    height: 75px;
+    background-size: 100%;
+
+}
+
+.play-store-icon {
+    background: url("#{$iconsPath}/playstore.svg");
+    width: 75px;
+    height: 75px;
+    background-size: 100%;
+}
+
+.laptop-icon {
+    width: 24px;
+    height: 24px;
+    background-size: 100%;
+    background-color: $dark-bg1;
+    -webkit-mask-image: url("#{$iconsPath}/laptop.svg");
+    mask-image: url("#{$iconsPath}/laptop.svg");
+
+}
+
+.laptop-icon-black {
+    width: 24px;
+    height: 24px;
+    background-size: 100%;
+    background-color: $text-color4;
+    -webkit-mask-image: url("#{$iconsPath}/laptop.svg");
+    mask-image: url("#{$iconsPath}/laptop.svg");
+}
+
+.device-mobile-icon {
+    width: 24px;
+    height: 24px;
+    background-size: 100%;
+    background-color: $text-color4;
+    -webkit-mask-image: url("#{$iconsPath}/deviceMobileCamera.svg");
+    mask-image: url("#{$iconsPath}/deviceMobileCamera.svg");
+
+}
+
+.device-mobile-icon-black {
+    width: 24px;
+    height: 24px;
+    background-size: 100%;
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/deviceMobileCamera.svg");
+    mask-image: url("#{$iconsPath}/deviceMobileCamera.svg");
+}
+
+// *--------- Product Icons Start ---------* //
+.traffic-product-icon {
+    // background: url("#{$iconsPath}/traffic-icon.svg") no-repeat scroll 0 0 / 24px;
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/traffic-icon.svg");
+    mask-image: url("#{$iconsPath}/traffic-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.motor-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/motor-icon.svg");
+    mask-image: url("#{$iconsPath}/motor-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.supplementalHealth-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/supplementalHealth-icon.svg");
+    mask-image: url("#{$iconsPath}/supplementalHealth-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.dask-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/dask-icon.svg");
+    mask-image: url("#{$iconsPath}/dask-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.home-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/home-icon.svg");
+    mask-image: url("#{$iconsPath}/home-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.fourSeasonsHealth-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/fourSeasonsHealth-icon.svg");
+    mask-image: url("#{$iconsPath}/fourSeasonsHealth-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.personalAccident-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/personalAccident-icon.svg");
+    mask-image: url("#{$iconsPath}/personalAccident-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.travel-product-icon {
+    background-color: $text-color15;
+    -webkit-mask-image: url("#{$iconsPath}/travel-icon.svg");
+    mask-image: url("#{$iconsPath}/travel-icon.svg");
+    width: 24px;
+    height: 24px;
+}
+
+.product-documents {
+    background: url("#{$iconsPath}/product-documents.svg") no-repeat center;
+    min-width: 30px;
+    min-height: 30px;
+}
+
+// *--------- Product Icons End  ---------* //
+
+.mobile-app {
+    background: url("#{$iconsPath}/mobile-app.svg") no-repeat scroll 0 0/190px;
+    width: 165px;
+    height: 175px;
+}
+
+.icon-32 {
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+}
+
+.facebook-icon {
+    background: url('#{$iconsPath}/facebook-icon.svg') no-repeat center;
+}
+
+.twitter-icon {
+    background: url('#{$iconsPath}/twitter-icon.svg') no-repeat center;
+}
+
+.twitter-x-icon {
+    background: url('#{$iconsPath}/twitter-x-icon.svg') no-repeat center;
+}
+
+.instagram-icon {
+    background: url('#{$iconsPath}/instagram-icon.svg') no-repeat center;
+}
+
+.linkedin-icon {
+    background: url('#{$iconsPath}/linkedin-icon.svg') no-repeat center;
+}
+
+// *--------- Menu Icons Start  ---------* //
+.fourSeasonsHealth-menu-icon {
+    background: url("#{$iconsPath}/heartbeat_black.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.traffic-menu-icon {
+    background: url("#{$iconsPath}/traffic-icon.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.motor-menu-icon {
+    background: url("#{$iconsPath}/motor-icon.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.supplementalHealth-menu-icon {
+    background: url("#{$iconsPath}/firstAidKit.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.travel-menu-icon {
+    background: url("#{$iconsPath}/airplaneTakeoff.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.personalAccident-menu-icon {
+    background: url("#{$iconsPath}/bandaids.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.home-menu-icon {
+    background: url("#{$iconsPath}/home-icon.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.dask-menu-icon {
+    background: url("#{$iconsPath}/dask-icon.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.engineering-menu-icon {
+    background: url("#{$iconsPath}/engineering.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.shipping-menu-icon {
+    background: url("#{$iconsPath}/truck.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.cyberrisk-menu-icon {
+    background: url("#{$iconsPath}/storefront.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.liability-menu-icon {
+    background: url("#{$iconsPath}/warning.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.agriculture-menu-icon {
+    background: url("#{$iconsPath}/chartLineUp.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.credit-menu-icon {
+    background: url("#{$iconsPath}/credit-product-icon.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.claim-notice-menu-icon {
+    background: url("#{$iconsPath}/folderNotchPlus.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.instant-claim-menu-icon {
+    background: url("#{$iconsPath}/warningOctagon.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.claim-inquiry-menu-icon {
+    background: url("#{$iconsPath}/folderNotch.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.auto-services-menu-icon {
+    background: url("#{$iconsPath}/gear.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.call-center-menu-icon {
+    background: url("#{$iconsPath}/headset.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.address-menu-icon {
+    background: url("#{$iconsPath}/pushPin.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.contact-form-menu-icon {
+    background: url("#{$iconsPath}/notebook.svg") no-repeat scroll 0 0 / 16px;
+    width: 16px;
+    height: 16px;
+}
+
+.campign-storefront-icon {
+    background: url("#{$iconsPath}/storefront-icon.svg");
+}
+
+.campign-storefront-black-icon {
+    background: url("#{$iconsPath}/storefront-black-icon.svg");
+}
+
+.campign-user-icon {
+    background: url("#{$iconsPath}/user-icon.svg");
+}
+
+.campign-user-black-icon {
+    background: url("#{$iconsPath}/user-black-icon.svg");
+}
+
+// *--------- Menu Icons End  ---------* //
+
+.caret-circle-left {
+    background: url("#{$iconsPath}/caretCircleLeft.svg") no-repeat scroll 0 0 / 22px;
+    width: 22px;
+    height: 22px;
+}
+
+
+.default-pin {
+    background: url("#{$iconsPath}/default-pin.svg") no-repeat scroll 0 0 / 22px;
+    width: 22px;
+    height: 22px;
+}
+
+.selected-pin {
+    background: url("#{$iconsPath}/selected-pin.svg") no-repeat scroll 0 0 / 22px;
+    width: 22px;
+    height: 22px;
+}
+
+.funnel-icon {
+    background: url("#{$iconsPath}/funnel.svg") no-repeat scroll 0 0 / 22px;
+    width: 22px;
+    height: 22px;
+}
+
+.kobiGaranti-product-icon {
+    background-color: $text-color15;
+    background: url("#{$iconsPath}/kobimGarantideIcon.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+.isyerimGaranti-product-icon {
+    background-color: $text-color15;
+    background: url("#{$iconsPath}/isyerimGarantideIcon.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+.kobiHealth-product-icon {
+    background-color: $text-color15;
+    background: url("#{$iconsPath}/kobiSaglikIcon.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+.hotel-product-icon {
+    background-color: $text-color15;
+    background: url("#{$iconsPath}/otelSigortasiIcon.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+.commercialRisk-product-icon {
+    background-color: $text-color15;
+    background: url("#{$iconsPath}/ticariRiskIcon.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+.gasStation-product-icon {
+    background-color: $text-color15;
+    background: url("#{$iconsPath}/akarayakitIstasyonuSigIcon.svg") no-repeat scroll 0 0 / 18px;
+    width: 22px;
+    height: 22px;
+    margin-right: 5px;
+}
+
+.briefcase-icon {
+    background: url("#{$iconsPath}/briefcase2.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.clipboardText-icon {
+    background: url("#{$iconsPath}/clipboardText.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.chatCircleDots-icon {
+    background: url("#{$iconsPath}/chatCircleDots.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.mapTrifold-icon {
+    background: url("#{$iconsPath}/mapTrifold.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.paperclip-icon {
+    background: url("#{$iconsPath}/paperclip.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}
+
+.coffee-icon {
+    background: url("#{$iconsPath}/coffee.svg") no-repeat scroll 0 0 / 30px;
+    width: 30px;
+    height: 30px;
+}

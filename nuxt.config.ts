@@ -11,7 +11,10 @@ const url = "https://vuetify3nuxt3starter.behonbaker.com/";
 // https://v3.nuxtjs.org/api/configuration/nuxt.config
 export default defineNuxtConfig({
   // import styles
-  css: ["@/assets/main.scss"],
+  css: [
+    "@/assets/main.scss",
+    "@/assets/scss/main.scss",
+  ],
   // enable takeover mode
   typescript: { shim: false },
   build: { transpile: ["vuetify"] },
@@ -24,7 +27,15 @@ export default defineNuxtConfig({
       );
     },
   ],
-
+  vite: {
+    css: {
+      preprocessorOptions: {
+        scss: {
+          additionalData: '@use "@/assets/scss/_colors.scss" as *;'
+        }
+      }
+    },
+  },
   app: {
     head: {
       title: "Vuetify 3 + Nuxt 3 Starter",
@@ -97,14 +108,14 @@ export default defineNuxtConfig({
   pwa: {
     meta: {
       name: shortTitle,
-      author: "Behon Baker",
-      theme_color: "#4f46e5",
+      author: "Eureko Sigorta",
+      theme_color: "#00468A",
       description: description,
     },
     manifest: {
       name: shortTitle,
       short_name: shortTitle,
-      theme_color: "#4f46e5",
+      theme_color: "#00468A",
       description: description,
     },
   },

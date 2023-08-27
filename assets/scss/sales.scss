@@ -1,0 +1,88 @@
+.container-sales {
+    max-width: 570px;
+    margin: 0 auto;
+}
+
+.sales-title {
+    font-weight: 700;
+    font-size: 1em;
+    text-align: center;
+    line-height: 23px;
+    color: $text-color15;
+    margin-bottom: 10px;
+}
+
+.sales-description {
+    font-size: 0.875em;
+    line-height: 17px;
+    text-align: center;
+    letter-spacing: -0.476191px;
+    color: #363636;
+    margin-bottom: 20px;
+}
+
+// Steps
+
+.el-step {
+    cursor: pointer;
+}
+
+.el-step .is-success .el-step__icon {
+    background-color: $text-color7;
+    border-color: $text-color7;
+}
+
+.el-step .is-success .el-step__icon .el-icon svg {
+    color: $light-bg1;
+}
+
+.el-step .el-step__line {
+    width: 4px;
+    left: 40%;
+    background-color: #EBEBEB;
+}
+
+.el-step .is-success .el-step__line {
+    width: 4px;
+    left: 40%;
+    background-color: $text-color7;
+}
+
+.el-step .el-step__icon {
+    background-color: #EBEBEB;
+    border-color: #EBEBEB;
+}
+
+.el-step .el-step__icon .el-step__icon-inner {
+    color: #EBEBEB;
+}
+
+.el-step.is-vertical .el-step__title {
+    color: $text-color15;
+}
+.el-step.is-vertical .el-step__title.is-wait {
+    color: #949494;
+}
+.el-step.is-vertical .el-step__head.is-wait .el-step__line {
+    display: none;
+}
+//radio-button
+
+.radio-group label {
+    height: 48px;
+    border-radius: 4px;
+    border: 1px solid #dbdbdb;
+    display: flex;
+    align-items: center;
+    background-color: $light-bg1;
+}
+
+.radio-group .v-label {
+    border: 0;
+    font-weight: 500;
+    font-size: 0.875em;
+}
+
+.legal-agreement-text .v-label {
+    font-size: 0.875em;
+}

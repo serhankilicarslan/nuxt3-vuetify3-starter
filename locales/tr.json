@@ -1,0 +1,912 @@
+{
+  "hello": "Merhaba, {name}!",
+  "title": "Eureko Sigorta",
+  "phoneNumber": "0850 222 66 60",
+  "forCompany": "Şirketiniz İçin Eureko",
+  "pageTitle": {
+    "home": "Eureko Sigorta - DASK, Kasko, Zorunlu Trafik ve Konut Sigortası",
+    "damageInquiry": "Hasar Takip Formu - Hasar Bildirim",
+    "damageNotification": "Hasar Bildirim"
+  },
+  "support": {
+    "title": "Eureko Sigorta Her Zaman Yanınızda!",
+    "items": {
+      "damageTransactions": "Hasar İşlemleri",
+      "damageTransactionsDesc": "Hasar bildirimlerinizi, hasar takibinizi hızlıca tamamlamak için buradayız.",
+      "contractedHealthInstitutions": "Sağlık Kurumları",
+      "contractedHealthInstitutionsDesc": "Anlaşmalı tüm sağlık kuruluşlar ve oto servislerimizle her zaman yanınızdayız.",
+      "vehicleServices": "Araç Servisleri",
+      "vehicleServicesDesc": "Sizin ve şirketiniz için kampanyalarımızı detaylıca inceleyebilir, fırsatlarımızdan yararlanabilirsiniz.",
+      "eurekobi": "Eurekobi",
+      "eurekobiDesc": "Eureko Sigorta Mobil Uygulaması ve internet şubemiz ile bir adım uzağınızdayız."
+    },
+    "button": "İncele"
+  },
+  "language": {
+    "button": {
+      "text": "EN"
+    }
+  },
+  "slider": {
+    "moreInfo": "Daha Fazla Bilgi"
+  },
+  "mobileApp": {
+    "button": {
+      "text": "Daha Fazlasını Göster"
+    },
+    "title": "Eureko Mobil’i Keşfet",
+    "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ac aliquetarcu. Cras viverra lobortis turpis, id scelerisque metus."
+  },
+  "help": {
+    "title": "Nasıl Yardımcı Olabiliriz?",
+    "text": "Geri Dönüşlerinize kıymet veriyoruz. Tüm Öneri ve Şikayetleriniz için bizimle iletişime geçebilirsiniz.",
+    "items": {
+      "yourCuriosities": "Merak Ettikleriniz",
+      "yourCuriositiesDesc": "Lorem ipsum dolor sit amet, consectetur",
+      "yourCuriositiesButton": "Keşfet",
+      "contactUs": "Bize Ulaşın",
+      "contactUsDesc": "Lorem ipsum dolor sit amet, consectetur ",
+      "contactUsButton": "Hemen Ara",
+      "contactUsWriten": "Bize Yazın",
+      "contactUsWritenDesc": "Lorem ipsum dolor sit amet, consectetur ",
+      "contactUsWritenButton": "İncele"
+    }
+  },
+  "header": {
+    "button": {
+      "whatsapp": "WhatsApp Hasar Sorgulama",
+      "whatsappMobile": "WhatsApp Hasar Sorgulama",
+      "login": "Giriş Yap",
+      "blog": "Blog",
+      "eureKobi": "EureKobi"
+    },
+    "items": {
+      "searchLabel": "Nasıl Kasko Sigortası Yaptırırım?"
+    }
+  },
+  "footer": {
+    "copyright": "Eureko Sigorta. Her Hakkı Saklıdır.",
+    "downloadMobile": "Eureko Mobili İndirin",
+    "forms": {
+      "appraiser": "Eureko Eksper Başvuru Formu",
+      "service": "Anlaşmalı Servis Formu",
+      "agency": "Acente Başvuru Formu"
+    },
+    "blueBar": {
+      "socialMedia": "Sosyal Medyada Eureko",
+      "eurekoQuality": "Eureko Kalite Politikası",
+      "cookie": "Çerez Bilgilendirmesi",
+      "kvkk": "K.V.K.K Aydınlatma Metni",
+      "info": "Bilgi Toplumu Hizmetleri",
+      "sitemap": "Site Haritası"
+    }
+  },
+  "blog": {
+    "title": "Eureko Blog",
+    "button": {
+      "text": "Tüm Blog Yazıları",
+      "cardFirst": "Devamını",
+      "cardSecond": "Oku"
+    }
+  },
+  "campaign": {
+    "title": "Kampanyalar",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non orci vitae quam rutrum tincidunt eget quis tellus. Sed ac pretium justo. Etiam tortor sem, egestas ac augue vel, fermentum pretium mauris.",
+    "button": {
+      "text": "Tüm Kampanyalar",
+      "cardFirst": "Keşfet"
+    },
+    "digitalCampaign": {
+      "shortCut": {
+        "title": "Hemen Eureko Sigorta müşterisi olun, bu fırsatı kaçırmayın.",
+        "description": "Eureko Sigorta ailesine katılmak için sizi aramamızı ister misiniz? ",
+        "input": {
+          "name": "İsim Soyisim",
+          "phone": "Telefon Numaranız"
+        },
+        "button": {
+          "send": "Gönder"
+        }
+      },
+      "choosePersonel": "Sizin İçin",
+      "personelDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non orci vitae quam rutrum tincidunt eget quis tellus. Sed ac pretium justo. Etiam tortor sem,  egestas ac augue vel, fermentum pretium mauris.",
+      "chooseCommercial": "Şirketiniz İçin",
+      "commercialDecription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean non orci vitae quam rutrum tincidunt eget quis tellus. Sed ac pretium justo. Etiam tortor sem,  egestas ac augue vel, fermentum pretium mauris."
+    },
+    "seoUrl": "/kampanya"
+  },
+  "product": {
+    "button": {
+      "getProposal": "Teklif Al",
+      "buyNow": "Hemen Teklif Al",
+      "moreInfo": "Daha fazla Bilgi"
+    },
+    "detail": {
+      "coverages": "Teminatlar",
+      "relatedDocuments": "İlgili Belgeler",
+      "knowledgeBases": "Merak Ettikleriniz"
+    },
+    "about": {
+      "title": "Nedir?"
+    },
+    "coverage": {
+      "title": "Teminatlar",
+      "subTitle": "Teminat Kapsamı",
+      "include": "EKLENDİ",
+      "premium": "PRİM TUTARI",
+      "add": "EKLE",
+      "compulsory": "Zorunlu"
+    },
+    "document": {
+      "title": "İlgili Belgeler"
+    },
+    "knowledge-base": {
+      "title": "Merak Ettikleriniz",
+      "panelTitle": "Lorem Ipsum",
+      "panelDescription": "Lorem ipsum dolor sit amet, consectetur adipiscing elit."
+    },
+    "proposal": {
+      "yourProposal": "Teklifiniz",
+      "coverages": "Teminatlar",
+      "download": "Teklifi PDF olarak indir"
+    }
+  },
+  "corporate": {
+    "title": "Eureko Kurumsal",
+    "eurekoCorporate": {
+      "title": "Hakkımızda",
+      "button": {
+        "agreement": "Eureko Sigorta Ana Sözleşmesi",
+        "infopolicy": "Bilgilendirme Politikamız"
+      },
+      "seoUrl": "hakkimizda"
+    },
+    "executiveBoard": {
+      "title": "Yönetim",
+      "seoUrl": "yonetim"
+    },
+    "companyStruct": {
+      "title": "Şirket Yapımız",
+      "description": "Eureko Sigorta, Achmea’nın Türkiye’deki üyesidir. Eureko Sigorta, Garanti BBVA ile olan güçlü işbirliği sayesinde Türkiye’de banka sigortacılığının lideridir.",
+      "history": "Tarihçe",
+      "partnership": "Ortaklık Yapısı",
+      "archmeainformation": "Archmea Hakkında",
+      "seoUrl": "sirket-yapimiz"
+    },
+    "financialStatement": {
+      "title": "Finansal Bilgiler",
+      "description": "Finansal tablolarımızı ve faaliyet raporlarımızı görüntüleyebilir, vergi uygulamalarımız hakkında bilgi alabilirsiniz.",
+      "seoUrl": "finansal-bilgiler",
+      "financialInfo": "Finansal Bilgi",
+      "documentType": "Belge Türü",
+      "year": "Yıl",
+      "month": "Ay"
+    },
+    "socialResponsibility": {
+      "title": "Sosyal Sorumluluk",
+      "seoUrl": "sosyal-sorumluluk"
+    },
+    "satisFaction": {
+      "title": "Müşteri Memnuniyeti",
+      "seoUrl": "musteri-memnuniyeti",
+      "contactFormTitle": "Müşteri İletişim Formu",
+      "contactFormSubTitle": "Sizi dinliyoruz. Bir öneri ya da şikayetiniz varsa bizimle paylaşabilirsiniz.",
+      "contactFormButtonTitle": "İletişim Formunu Doldur"
+    },
+    "sustainability": {
+      "title": "Sürdürülebilirlik",
+      "seoUrl": "surdurulebilirlik"
+    }
+  },
+  "contact": {
+    "title": "İletişim",
+    "regionalDirectorates": {
+      "title": "Bölge Müdürlükleri",
+      "seoUrl": "bolge-mudurlukleri",
+      "header": "Bölge Müdürlüklerimiz",
+      "subheader": "Müdürlüklerimiz"
+    },
+    "agencies": {
+      "title": "Acenteler",
+      "seoUrl": "acenteler"
+    },
+    "writeUs": {
+      "title": "Bize Yazın",
+      "seoUrl": "bize-yazin",
+      "FormTitle": "Müşteri İletişim Formu",
+      "FormSubTitle": "Değerli müşterimiz; talep, öneri ve şikayetlerinizi öğrenmekten, takdir ve teşekkürlerinizi duymaktan memnun olacağız. Ürünlerimizle ilgili bilmek istediklerinizi <a href=\"/merak-ettikleriniz/sikca-sorulan-sorular\">Merak Ettikleriniz</a> sayfamızda bulabilirsiniz.",
+      "FormFirstAreaTitle": "1. İletişim bilgilerinizi öğrenebilir miyiz?",
+      "FormSecondAreaTitle": "2. Size nasıl yardımcı olabiliriz?",
+      "FormSecondAreaWhatWouldYouLike": "Hangi konuda görüş bildirmek istersiniz?",
+      "FormSecondAreaThanksTitle": "Teşekkür/Öneri Başlığı",
+      "FormSecondAreaRequestAndSuggestionTitle": "Talep Başlığı",
+      "FormSecondAreaComplaintTitle": "Şikayet Başlığı",
+      "FormSecondAreaMessageTitle": "Mesajınızın Başlığı",
+      "FormSecondAreaCancellationProcess": "İptal İşlemleri",
+      "FormSecondAreaPolicyNo": "Poliçe Numarası",
+      "FormSecondAreaThanksDesc": "Teşekkür/Öneri Detay",
+      "FormSecondAreaRequestAndSuggestionDesc": "Talep Detay",
+      "FormSecondAreaComplaintDesc": "Şikayet Detay",
+      "FormSecondAreaMessageDesc": "Mesajınızın Detay",
+      "FormAddFile": "Dosya Ekle",
+      "FormSecondAreaWhatWouldYouLikeSection": {
+        "ThankTitle": "Teşekkür/Öneri",
+        "ComplaintTitle": "Şikayet",
+        "SuggestionTitle": "Talep"
+      }
+    },
+    "locationAddress": {
+      "header": "Genel Müdürlük",
+      "openMap": "Adresi Haritalarda Aç",
+      "callAgency": "Acenteyi Ara",
+      "address": "Altunizade Mahallesi Ord. Prof. Fahrettin Kerim Gökay Cad. No:20 34662 Üsküdar / İstanbul",
+      "geoLat": "41.0207932",
+      "geoLon": "29.0442133",
+      "phone": "+90 (216) 458 67 67",
+      "title": "Lokasyon ve Adres",
+      "seoUrl": "lokasyon-adres"
+    }
+  },
+  "proposalShortCut": {
+    "title": "Sigortanızı Başlatın",
+    "description": "Geri Dönüşlerinize kıymet veriyoruz. Tüm Öneri ve Şikayetleriniz için bizimle iletişime geçebilirsiniz.",
+    "input": {
+      "name": "İsim Soyisim",
+      "phone": "Telefon Numaranız"
+    },
+    "button": {
+      "send": "Gönder"
+    },
+    "callMe": "Sizi Arayalım"
+  },
+  "knowledge": {
+    "title": "Merak Ettikleriniz"
+  },
+  "legalInfo": {
+    "communication": {
+      "title": {
+        "communicationModelHeader": "Eureko Sigorta İletişim İzin Metni"
+      },
+      "body": {
+        "allowingDataForContact": "Eureko Sigorta’nın ve iştiraklerinin(Doost’un) şimdi ilettiğim ve/veya gelecekte ileteceğim kimlik ve iletişim bilgilerimi reklam, kampanya ve benzeri pazarlama faaliyetlerin yürütülmesi amacıyla elektronik ortamlarda otomatik olarak işlemesini ve 6563 sayılı Elektronik Ticaretin Düzenlenmesi Hakkında Kanun’a uygun olarak tarafıma ticari elektronik ileti göndermesini kabul ediyorum."
+      },
+      "text": {
+        "communicationAgreement": "İletişim İzni Metnini",
+        "read": "okudum"
+      }
+    },
+    "privacyPolicy": {
+      "text": {
+        "kvkkAgreement": "KVKK Aydınlanma ",
+        "readAndApproved": "okudum ve onaylıyorum"
+      }
+    },
+    "userAgreement": {
+      "text": {
+        "communicationAgreement": "Kullanıcı Sözleşmesini",
+        "readAndApproved": "okudum ve onaylıyorum"
+      }
+    },
+    "cookie": {
+      "title": "Çerez Bilgilendirmesi",
+      "seoUrl": "cerez-politikası"
+    },
+    "kvkk": {
+      "title": "KVKK Aydınlatma Metni",
+      "seoUrl": "kisisel-verilerin-korunmasi-kanunu-gizlilik-politikasi"
+    },
+    "inaccurateInsurance": {
+      "title": "Yanlış Sigorta Uygulamaları Bilgilendirilmesi",
+      "seoUrl": "yanlis-sigorta-uygulamalari-bilgilendirmesi"
+    },
+    "mediation": {
+      "title": "Ticari Uyuşmazlıklarda Zorunlu Arabuluculuk",
+      "seoUrl": "ticari-uyusmazliklarda-zorunlu-arabuluculuk"
+    },
+    "unsoughtMoney": {
+      "title": "Hak Sahiplerince Aranmayan Paralar",
+      "seoUrl": "hak-sahiplerince-aranmayan-paralar",
+      "notFound": "Aradığınız kayıt bulunamadı."
+    },
+    "qualityPolicy": {
+      "title": "Eureko Kalite Politikası",
+      "seoUrl": "eureko-kalite-politikasi"
+    },
+    "compulsoryTraffic": {
+      "title": "Zorunlu Trafik Sigortası Prim Hesaplama",
+      "seoUrl": "zorunlu-trafik-sigortasi-prim-hesaplama"
+    }
+  },
+  "career": {
+    "title": "Eureko'da Kariyer",
+    "campus": {
+      "title": "Eureko Kampüs ",
+      "seoUrl": "campus"
+    },
+    "start": {
+      "title": "Eureko'lu Olmak ",
+      "seoUrl": "start"
+    },
+    "life": {
+      "title": "Eureko'da Yaşam ",
+      "seoUrl": "life"
+    },
+    "humanResources": {
+      "title": "İK ve Açık Pozisyonlar",
+      "seoUrl": "humanResources"
+    }
+  },
+  "workplaceInsurance": {
+    "isyerimGaranti": {
+      "title": "İşyerim Garantide Sigortası",
+      "seoUrl": "isyerim-garantide-sigortasi"
+    },
+    "kobiHealth": {
+      "title": "Kobi Sağlık Sigortası",
+      "seoUrl": "kobi-saglik-sigortasi"
+    },
+    "kobiGaranti": {
+      "title": "Kobim Garanti'de",
+      "seoUrl": "kobim-garantide-sigortasi"
+    },
+    "gasStation": {
+      "title": "Akaryakıt İstasyon Sigortası",
+      "seoUrl": "akaryakit-istasyon-sigortasi"
+    },
+    "hotel": {
+      "title": "Otel Sigortası",
+      "seoUrl": "otel-sigortasi"
+    },
+    "commercialRisk": {
+      "title": "Ticari Risk Sigortaları",
+      "seoUrl": "ticari-risk-sigortalari"
+    },
+    "knowledgeTitle": {
+      "title": "Merak Ettikleriniz"
+    },
+    "coverageTitle": {
+      "title": "Teminatlar"
+    },
+    "documentTitle": {
+      "title": "İlgili Belgeler"
+    }
+  },
+  "pressRoom": {
+    "announcements": {
+      "title": "Duyurular",
+      "seoUrl": "duyurular",
+      "button": "Tamamını Oku",
+      "badge": "YENİ"
+    },
+    "news": {
+      "title": "Bültenler",
+      "seoUrl": "bultenler"
+    },
+    "headquarters": {
+      "title": "Genel Müdürlüğümüz Hakkında",
+      "seoUrl": "genel-mudurlugumuz-hakkinda",
+      "logo": "Logomuz",
+      "photo": "Fotoğraf Galerisi",
+      "news": "Haber Galerisi"
+    },
+    "commercials": {
+      "title": "Reklam Filmlerimiz",
+      "seoUrl": "reklam-filmlerimiz"
+    }
+  },
+  "texts": {
+    "city": "Şehir",
+    "district": "İlçe",
+    "subDistrict": "Köy/Bucak",
+    "neighborhood": "Mahalle",
+    "street": "Sokak",
+    "building": "Bina",
+    "flat": "Daire",
+    "name": "Adınız",
+    "surname": "Soyadınız",
+    "vkn": "Şirketinizin Vergi Kimlik Numarası",
+    "tckn": "T.C. Kimlik Numaranız (11 Hane)",
+    "insuredTcknClaim": "Sigortalı T.C Kimlik Numarası",
+    "insuredTcknVknClaim": "Sigortalı T.C Kimlik/Vergi Kimlik Numarası",
+    "identity": "T.C Kimlik Numarası",
+    "customerNo": "Müşteri Numarası",
+    "tckn_vkn": "T.C. Kimlik / Vergi Numarası",
+    "inquiryWithNameAndBirthdate": "İsim ve doğum tarihi ile sorgulama",
+    "taxNumber": "Vergi Kimlik Numarası",
+    "birthDate": "Doğum Tarihiniz",
+    "birthPlace": "Doğum Yeri",
+    "phone": "Telefon Numaranız",
+    "mobilePhone": "Cep Telefonu Numaranız",
+    "faxNo": "Faks Numaranız",
+    "email": "E-posta Adresiniz",
+    "myMobilePhone": "Telefon Numaram",
+    "myEmail": "E-posta Adresim",
+    "smsCode": "Güvenlik Kodu",
+    "educationStatus": "Öğrenim Durumu",
+    "lastGraduatedSchool": "Son Bitirilen Okul",
+    "yes": "Evet",
+    "no": "Hayır",
+    "fullName": "Adı Soyadı",
+    "insuredNameSurname": "Poliçe düzenlenecek kişinin adı ve soyadı:",
+    "insuredTckn": "Poliçe düzenlenecek kişinin T.C. Kimlik Numarası:",
+    "insuredPhone": "Poliçe düzenlenecek kişinin cep telefonu numarası:",
+    "insuredEmail": "Poliçe düzenlenecek kişinin e-posta adresi:",
+    "identityType": "Kimlik Tipi",
+    "idenCardType_TCKN": "TCKN",
+    "idenCardType_VKN": "VKN",
+    "illnessStatement": "Mevcut bir rahatsızlığınızın olmadığını belirtmeniz halinde, eğer aksi bir durum varsa, poliçeniz geçerli sayılmayacaktır.",
+    "isAutoRenewalActive": "Poliçe otomatik yenilensin mi?",
+    "checkIllnessList": "Aşağıda listedekiler arasından mevcut bir rahatsızlığınız bulunuyor mu?",
+    "exists": "Var",
+    "notExists": "Yok",
+    "enterSmsCode": "Telefonunuza Gelen Kodu Giriniz",
+    "mine": "Bana ait",
+    "belongsOther": "Başkasına ait",
+    "insured": "Sigortalı",
+    "insurant": "Sigorta Ettiren",
+    "successfullOperation": "İşlem Başarı İle Gerçekleşti",
+    "successfullOperationDesc": "Integer molestie arcu nec orci posuere, at vulputate massa suscipit. Morbi ipsum odio, blandit eget magna vel, suscipit dapibus libero.",
+    "isThereAdditionalInsured": "Zorunlu Deprem Sigortası poliçesine ekleyeceğiniz başka kişiler var mı?",
+    "additionalInsuredNameSurname": "Poliçenize eklenecek bireyin adı ve soyadı",
+    "additionalInsuredTckn": "Poliçenize eklenecek bireyin T.C. Kimlik Numarası (11 Hane)",
+    "insuranceTypeMe": "Kendim için",
+    "insuranceTypeOther": "Bir başkası için",
+    "insuranceTypeCompany": "Şirketime ait",
+    "knownUAVTnumber": "UAVT numarasını biliyorum",
+    "notKnownUAVTnumber": "UAVT numarasını bilmiyorum",
+    "UAVTnumber": "UAVT numarası:",
+    "UAVTno": "UAVT Numarası",
+    "address": "Adres",
+    "addressCodeOrAddress": "UAVT veya adres girmek istiyorum",
+    "approveAddress": "Adresi onaylıyorum",
+    "inputTravelInfo": "Lütfen seyahatle ilgili bilgileri girin.",
+    "products": "Sigorta Paketleri",
+    "claimType": "Hasar Tipi",
+    "sendDamageDocumentsEmailResult": "Evrak listesi e-posta adresinize iletilmiştir.",
+    "loginBanner": "Eureko Sigorta Her Zaman Yanınızda!",
+    "loginTitle": "Kullanıcı Girişi",
+    "loginDesc": "Lütfen Giriş Metodunu Seçiniz",
+    "traficPrimCalculate": "Zorunlu Trafik Sigortası Prim Hesaplama",
+    "date-placeholder": "Gün/Ay/Yıl"
+  },
+  "buttons": {
+    "ok": "Tamam",
+    "backToHomePage": "Ana Sayfaya Dön",
+    "download": "İndir",
+    "continue": "Devam",
+    "back": "Geri",
+    "buy": "Satın Al",
+    "createProposal": "Teklif Oluştur",
+    "query": "Sorgula",
+    "select": "Seçiniz",
+    "addPerson": "Kişiyi Ekle",
+    "addToPolicy": "Poliçeme Ekle",
+    "showAllResults": "Tüm Sonuçları Gör",
+    "searchService": "Servis Bul",
+    "hide": "Gizle",
+    "filters": "Filtreler",
+    "listEmail": "Listeyi e-posta ile gönder",
+    "loginVKN": "VKN ile Giriş",
+    "loginTCKN": "TCKN ile Giriş",
+    "findService": "Servis Bul",
+    "discoverNow": "Hemen Keşfet",
+    "addAdditionalFile": "Ek Dosya Ekle"
+  },
+  "links": {
+    "seeAllCoverages": "Tüm Teminatları Gör",
+    "seeAllProducts": "Tüm Ürünleri Gör",
+    "close": "Kapat",
+    "click": "Tıklayınız"
+  },
+  "claim": {
+    "claimManagement": {
+      "title": "Hasar Yönetimi",
+      "motto": "Eureko Sigorta Acil Anlarda Yanınızda",
+      "institutions": "Anlaşmalı Kurumlar",
+      "search": "Kurum Ara",
+      "items": {
+        "claimTransactions": {
+          "title": "Hasar İşlemleri",
+          "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis eu convallis nisi. Aliquam imperdiet et sapien fringilla facilisis. Vivamus fringilla ac lorem nec ullamcorper. Quisque ut mattis elit, quis auctor risus. Duis feugiat lorem pellentesque risus maximus lacinia. Praesent id sollicitudin enim, ut tristique felis.",
+          "mobileAppTitle": "Tüm acil durumlarınız için Eureko Sigorta Mobil Uygulamasını indirebilirsiniz",
+          "mobileAppText": "Hemen İndirin"
+        },
+        "claimInstantly": {
+          "title": "Hasar Anında",
+          "desc": "Sigorta paketinizi ve hasar tipinizi seçiniz. Hasar bildiriminiz için gereken belgeleri hazırlayarak {0} yapabilir ya da {1} arayabilirsiniz."
+        },
+        "yourCuriosities": {
+          "title": "Merak Ettikleriniz",
+          "desc": "Sigorta paketinizi ve hasar tipinizi seçiniz. Hasar bildiriminiz için gereken belgeleri hazırlayarak Online Hasar Bildirimi yapabilir ya da 0850 222 66 60 numaralı Müşteri İletişim Merkezi’mizi arayabilirsiniz."
+        }
+      }
+    },
+    "claimInquiry": {
+      "title": "Hasar Takip",
+      "claimNumber": "Dosya Numarası",
+      "plateInformation": "Plaka Bilgisi",
+      "yourPlateInformation": "Plaka Bilginiz",
+      "policyNumber": "Poliçe Numarası",
+      "yourPolicyNumber": "Poliçe Numaranız",
+      "reInquiry": "Tekrar Sorgulamak İçin",
+      "paymentInformation": "Ödeme Bilgileri",
+      "documentInformation": "Döküman Bilgileri"
+    },
+    "claimNotice": {
+      "damageNoticeClaimerTypeInsured": "Sigortalıyım",
+      "damageNoticeClaimerTypeUncontractedService": "Anlaşmasız Servisim",
+      "damageNoticeClaimerTypeService": "Servis Yetkilisiyim",
+      "damageNoticeClaimerTypeContractedService": "Anlaşmalı Servisim",
+      "autoClaimSteps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "Hasar Bilgileri"
+        },
+        {
+          "index": "3",
+          "title": "Aracı Kullanan Kişi"
+        },
+        {
+          "index": "4",
+          "title": "Servis Bilgileri"
+        },
+        {
+          "index": "5",
+          "title": "Hesap Bilgileri"
+        }
+      ],
+      "homeClaimSteps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "Hasar Bilgileri"
+        },
+        {
+          "index": "3",
+          "title": "Hesap Bilgileri"
+        }
+      ]
+    }
+  },
+  "payment": {
+    "cardOwner": "Kart Sahibinin Adı ve Soyadı",
+    "cardNumber": "Kart Numarası",
+    "expirationDate": "Son Kullanma Tarihi (Ay/Yıl)",
+    "singlePay": "Tek Çekim",
+    "premiumAmount": "PRİM TUTARI",
+    "titleInfo": "Ödeme",
+    "installmentOptions": "Taksit Seçenekleri",
+    "show-installmentOptions": "Taksit Seçeneklerini Görüntüle",
+    "count-intallment": "Taksit Sayısı",
+    "mount-payment": "Aylık Ödeme",
+    "plan-payment": "Ödeme Planı"
+  },
+  "proposal": {
+    "travel": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "SMS Doğrulaması"
+        },
+        {
+          "index": "3",
+          "title": "Seyahat Bilgieri"
+        },
+        {
+          "index": "4",
+          "title": "Teminatlar"
+        },
+        {
+          "index": "5",
+          "title": "Teklif"
+        },
+        {
+          "index": "6",
+          "title": "Satın Al"
+        }
+      ],
+      "title": "Seyahat Sağlık Sigortası Teklifi Al",
+      "description": "Kendiniz için mi yoksa bir başkası için mi, Seyahat Sağlık Sigortası teklifi almak istiyorsunuz?",
+      "departureDate": "Gidiş Tarihi",
+      "returnDate": "Dönüş Tarihi",
+      "travelType": "Seyahat Türü",
+      "tourist": "Turist",
+      "student": "Öğrenci",
+      "transporter": "Nakliyeci",
+      "travelSixMonthControl": "Satın alacağınız poliçenizin seyahat süresi 6 ayı aşmaktadır. Her bir yurtdışı seyahatinizde teminatınız turistik veya iş amaçlı ise 6 hafta, öğrenci amaçlı seyahatinizde ise 6 ay ile sınırlıdır. Poliçeniz bir yıl süresince toplam 184 gün seyahat için teminat vermektedir.",
+      "travelIsDepartureDateSameWithToday": "Bugün satın alınan poliçeler 24 saat sonra teminat vermeye başlar. Poliçenizin geçerli olması için TC gümrüğünden çıkış yapılmadan önce satın alınmış olması gerekmektedir.",
+      "travelIsDepartureDateGreaterThanToday": "Poliçenizin geçerli olması için TC gümrüğünden çıkış yapılmadan önce satın alınmış olması gerekmektedir.",
+      "nonAsistanceProposalTitle": "Eureko Sigorta Asistansız Seyahat Sağlık Sigortası",
+      "asistanceProposalTitle": "Eureko Sigorta Asistanlı Seyahat Sağlık Sigortası",
+      "travelSelectSchengen": "Schengen ve Tüm Dünya ( ABD, Japonya Dahil)",
+      "travelNotSelectABD": "Schengen ve Tüm Dünya ( ABD, Japonya Hariç)",
+      "additionalcoverage": "Ek Teminat",
+      "titlePayment": "Seyahat Sağlık Sigortası"
+    },
+    "traffic": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "SMS Doğrulaması"
+        },
+        {
+          "index": "3",
+          "title": "Araç Bilgileri"
+        },
+        {
+          "index": "4",
+          "title": "Teklif"
+        },
+        {
+          "index": "5",
+          "title": "Satın Al"
+        }
+      ],
+      "title": "Trafik Sigortası Teklifi Al",
+      "description": "Sigortalanacak araç kime ait?",
+      "brand": "Marka",
+      "autoType": "Araç Türü",
+      "partnerCampaign": "Size Özel Avantajlar",
+      "serviceType": "Servis Tipi",
+      "brandModel": "Model",
+      "modelYear": "Model Yılı",
+      "motorNo": "Motor Numarası",
+      "chassisNo": "Şasi Numarası",
+      "registrationDate": "Tescil Tarihi",
+      "trafficReleaseDate": "Trafiğe Çıkış Tarihi",
+      "passengerCapacity": "Koltuk Sayısı",
+      "standingPassengerExists": "Ayakta Yolcu Var mı?",
+      "standingPassengerNumber": "Ayakta Yolcu Sayısı",
+      "loadCapacity": "Yük kapasitesi",
+      "institutionType": "Kurum Tipi",
+      "institutionName": "Kurum Adı",
+      "insuranceType": "Güvence Tipi",
+      "productType": "Ürün Tipi",
+      "licencePlate": "Aracınızın Plakası",
+      "registrationSerialNo": "Tescil Belge Sıra Numarası",
+      "documentAsbisNo": "Aracınızın Ruhsat /ASBİS numarası",
+      "vehicleOwnerName": "Araç Sahibinin Adı ve Soyadı",
+      "vehicleOwnerTckn": "Araç Sahibinin T.C. Kimlik Numarası (11 Hane)",
+      "vehicleOwnerPhone": "Araç Sahibinin Cep Telefonu Numarası",
+      "vehicleOwnerEmail": "Araç Sahibinin E-posta Adresi",
+      "actionTypeFirstTime": "İlk kez sigorta yaptırmak istiyorum",
+      "actionTypeRenew": "Sigortamı yenilemek istiyorum",
+      "vehicleTypeNew": "Aracım Sıfır Kilometre",
+      "vehicleTypeSecondhand": "Aracım İkinci El",
+      "vehiclePlateExists": "Plakam Var",
+      "vehiclePlateNonExists": "Plakam Yok",
+      "vehiclePlateCity": "Plaka Şehir Kodu",
+      "vehicleDrivingType": "Kullanım Türü",
+      "carInfoTitle": "Araç Bilgileri",
+      "carInfoText": "Lütfen yapmak istediğiniz işlemi seçin ve sigortalanacak araca ait ilgili bilgileri girin.",
+      "carInfoTex2": "Lütfen sigortalanacak araca ait ilgili bilgileri girin.",
+      "hasLiquidGas": "Aracımda LPG var",
+      "hasExtraEquipment": "Aracımda ek donanım var",
+      "giveExtraEquipmentInfo": "Lütfen ek donanım bilgilerini giriniz",
+      "equipment": "Teçhizat",
+      "audioAndVideo": "Ses ve Görüntü Cihazı",
+      "equipmentName": "Adı",
+      "equipmentPrice": "Bedeli (TL)",
+      "damageInformation": "Hasarsızlık Bilgisi",
+      "claimableTransferQuestion": "Hasarsızlık bilgilerinize göre indiriminizi teklifinize yansıtmak üzere başka bir aracınızdan hasarsızlık bilgisi alınmasını ister misiniz?",
+      "claimableTransferPlate": "Hasarsızlık bilgisi alınmasını istediğiniz aracın plakası:"
+    },
+    "fourseasonshealth": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "SMS Doğrulaması"
+        },
+        {
+          "index": "3",
+          "title": "Teklif"
+        },
+        {
+          "index": "4",
+          "title": "Satın Al"
+        }
+      ],
+      "title": "4 Mevsim Sağlık Sigortası",
+      "description": "Lütfen teklif almak için formu doldurun"
+    },
+    "home": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "SMS Doğrulaması"
+        },
+        {
+          "index": "3",
+          "title": "Adres Bilgileri"
+        },
+        {
+          "index": "4",
+          "title": "Teminatlar"
+        },
+        {
+          "index": "5",
+          "title": "Teklif"
+        },
+        {
+          "index": "6",
+          "title": "Satın Al"
+        }
+      ],
+      "title": "Konut Sigortası Teklifi Al",
+      "description": "Kendiniz için mi yoksa bir başkası için mi, Konut Sigortası teklifi almak istiyorsunuz?",
+      "addressTitle": "Adres Bilgileri",
+      "addressDescription": "Lütfen sigortalanacak konuta ait adres bilgilerini girin",
+      "housingAddress": "Konut Adresi",
+      "homeInfo": "Konut Bilgileri",
+      "giveHomeInfo": "Lütfen sigortalınacak konuta ait bilgileri girin.",
+      "propetyStatus": "Sigortalanacak konutun mülkiyet durumu",
+      "homeArea": "Sigortalanacak konutun büyüklüğü",
+      "isAutoRenewalActive": "Poliçe otomatik yenilensin mi?",
+      "usageTypeOwner": "Mal Sahibi",
+      "usageTypeTenant": "Kiracı",
+      "homeCoverageTypesHousingGoods": "Konut ve Eşya",
+      "homeCoverageTypesHousing": "Sadece Konut",
+      "homeCoverageTypesGoods": "Sadece Eşya",
+      "homeHousingGoodsCoverages": "Konut ve Eşya Standart Teminatları",
+      "homeHousingCoverages": "Sadece Konut Standart Teminatları",
+      "homeGoodsCoverages": "Sadece Eşya Standart Teminatları",
+      "constructionTypesSteel": "ÇELİK,BETONARME KARKAS",
+      "constructionTypesMasonry": "YIĞMA KAGİR YAPILAR",
+      "constructionTypesOrdinaryMasonry": "ADİ KAGİR YAPILAR",
+      "constructionTypesOther": "DİĞER YAPILAR",
+      "homeUsageType": "Konutun kullanım şekli",
+      "homeConstructionTypes": "Konutun bulunduğu binanın yapı tarzı",
+      "homeFloorCounts": "Binadaki kat sayısı",
+      "homeConstructionDate": "Binanın yapım yılı",
+      "homeInsuranceState": "Binada halihazırda hasar var mı?",
+      "insuranceState": "Hasar durumu",
+      "hasInsurance": "Hasar var",
+      "hasNotInsurance": "Hasar yok"
+    },
+    "motor": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "SMS Doğrulaması"
+        },
+        {
+          "index": "3",
+          "title": "Araç Bilgileri"
+        },
+        {
+          "index": "4",
+          "title": "Hasarsızlık Bilgisi"
+        },
+        {
+          "index": "5",
+          "title": "Teklif"
+        },
+        {
+          "index": "6",
+          "title": "Satın Al"
+        }
+      ],
+      "title": "Kasko Sigortası Teklifi Al",
+      "description": "Sigortalanacak araç kime ait?",
+      "addNewEquipment": "Yeni ek donanım ekle",
+      "removeEquipment": "Ek donanımdan vazgeç",
+      "addToPolicy": "Poliçeye Ekle"
+    },
+    "dask": {
+      "steps": [
+        {
+          "index": "1",
+          "title": "Kişisel Bilgiler"
+        },
+        {
+          "index": "2",
+          "title": "SMS Doğrulaması"
+        },
+        {
+          "index": "3",
+          "title": "Adres Bilgileri"
+        },
+        {
+          "index": "4",
+          "title": "Teminatlar"
+        },
+        {
+          "index": "5",
+          "title": "Teklif"
+        },
+        {
+          "index": "6",
+          "title": "Satın Al"
+        }
+      ],
+      "title": "Deprem Sigortası Teklifi Al",
+      "description": "Kendiniz için mi yoksa bir başkası için mi, Deprem Sigortası teklifi almak istiyorsunuz?"
+    },
+    "salesAgreement": {
+      "title": "Mesafeli Satış Sözleşmesi",
+      "text": "Mesafeli Satış Sözleşmesini",
+      "readAndApproved": "okudum ve onaylıyorum"
+    },
+    "policyInformation": {
+      "title": "Poliçe Bilgilendirme Metni",
+      "text": "Poliçe Bilgilendirme Metnini",
+      "readAndApproved": "okudum ve onaylıyorum"
+    }
+  },
+  "datePicker": {
+    "departureDatePlaceholder": "Gidiş Tarihi",
+    "returnDatePlaceholder": "Dönüş Tarihi"
+  },
+  "siteSearch": {
+    "whatYouWantToSearch": "Ne Aramak İstemiştiniz?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque a velit quis lacus blandit cursus non non erat",
+    "faq": "Sık Sorulan Sorular",
+    "results": "Sonuçlar",
+    "goToResults": "Sayfaya Git",
+    "placeholder": "Kasko nasıl alınır?"
+  },
+  "contractedProviders": {
+    "title": "Anlaşmalı Kurumlar",
+    "vehicleServices": "Araç Servisleri",
+    "healthInstitutes": "Sağlık Kurumları",
+    "healthSeoUrl": "anlasmali-saglik-kurumlari",
+    "vehicleSeoUrl": "anlasmali-arac-servisleri",
+    "institutionType": "Kurum Tipi",
+    "productType": "Ürün Tipi"
+  },
+  "trafficCalculator": {
+    "traficPremiumCalculateDescHTML": "Hesaplanan değerler araç sınıfları ve konuma göre yasal olarak belirlenmiş genel aralıklardır ve bilgilendirme amacıyla verilmiştir. Aracınız için geçerli kesin prim tutarları için <a href=\"/bireysel-urunlerimiz/teklif-al/trafik-sigortasi\">teklif almanızı</a> öneririz.",
+    "traficPremiumCalculateInfoHTML": "Hesaplanan primler nihai prim olmayıp, girdiğiniz genel veriler çerçevesinde, bilgilendirme amaçlı hesaplanmıştır. Nihai prim tutarları risk profiline göre değiştiğinden, aracınıza özel kesin prim değerlerini <a href=\"/bireysel-urunlerimiz/teklif-al/trafik-sigortasi\">Zorunlu Trafik Sigortası</a> teklifi alarak öğrenebilirsiniz.",
+    "operatingType": "İşleten Tipi",
+    "vehicleType": "Araç Tipi",
+    "calculationResult": "Hesaplama Sonuçları",
+    "minPremium": "En Düşük Prim Tutarı",
+    "maxPremium": "En Yüksek Prim Tutarı"
+  },
+  "ourServices": {
+    "title": "Hizmetlerimiz",
+    "mobileApp": {
+      "title": "Mobil Uygulamamız",
+      "seoUrl": "mobil-uygulama-tanitim"
+    },
+    "valet": {
+      "title": "Eureko Vale",
+      "seoUrl": "eureko-vale-hizmeti"
+    },
+    "servicePoint": {
+      "title": "Eureko Hizmet Noktası",
+      "seoUrl": "eureko-hizmet-noktasi"
+    },
+    "miniDamage": {
+      "title": "Eureko Mini Hasar",
+      "seoUrl": "mini-hasar"
+    }
+  }
+}

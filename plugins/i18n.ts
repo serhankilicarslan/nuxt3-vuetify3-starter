@@ -1,5 +1,8 @@
 import { createI18n } from 'vue-i18n'
 
+import en from '@/locales/en.json'
+import tr from '@/locales/tr.json'
+
 export default defineNuxtPlugin((app) => {
   var defaultLocale = 'tr'
   if (app._route.fullPath == '/en' || app._route.fullPath.indexOf('/en/') == 0)
@@ -14,12 +17,8 @@ export default defineNuxtPlugin((app) => {
       { code: 'en', name: 'English' }
     ],
     messages: {
-      en: {
-        hello: 'Hello, {name}!'
-      },
-      tr: {
-        hello: 'Merhaba, {name}!'
-      }
+      en: en,
+      tr: tr,
     }
   })
 
