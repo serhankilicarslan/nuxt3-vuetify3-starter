@@ -1,10 +1,14 @@
 import { createI18n } from 'vue-i18n'
 
-export default defineNuxtPlugin(({ vueApp }) => {
+export default defineNuxtPlugin((app) => {
+  var defaultLocale = 'tr'
+  if (app._route.fullPath == '/en' || app._route.fullPath.indexOf('/en/') == 0)
+    defaultLocale = 'en'
+
   const i18n = createI18n({
-    legacy: false,
+    detectBrowserLanguage: false,
     globalInjection: true,
-    locale: 'en',
+    locale: defaultLocale,
     locales: [
       { code: 'tr', name: 'Türkçe' },
       { code: 'en', name: 'English' }
@@ -19,5 +23,5 @@ export default defineNuxtPlugin(({ vueApp }) => {
     }
   })
 
-  vueApp.use(i18n)
+  app.vueApp.use(i18n)
 })
